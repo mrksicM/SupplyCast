@@ -1,0 +1,8 @@
+Here’s a clear way to phrase it:
+
+RMSE (Root Mean Squared Error) → “On average, the forecast is off by about 13–16 units.”
+
+MAPE (Mean Absolute Percentage Error) → “On average, the forecast is off by about 10–12% compared to the actual values.”
+
+So when you see MAPE = 0.1146, you can say:
+👉 “This model is about 88.5% accurate — meaning its predictions are usually within ~11.5% of the real values.”

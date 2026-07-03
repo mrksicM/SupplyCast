@@ -1,0 +1,1561 @@
+Date,Item Code,Item Name,Consumed,Wasted,Order Placed,Order Qty,Season,Holiday/Event,Demand Spike
+2024-06-03,SPR001,Steel Spring,75,3,Yes,600.0,Summer,,No
+2024-06-03,BOL001,Hex Bolt M8,190,5,Yes,1200.0,Summer,,No
+2024-06-03,ASM001,Spring Assembly,24,0,Yes,120.0,Summer,,No
+2024-06-04,SPR001,Steel Spring,118,4,No,,Summer,,No
+2024-06-04,BOL001,Hex Bolt M8,201,6,No,,Summer,,No
+2024-06-04,ASM001,Spring Assembly,19,0,No,,Summer,,No
+2024-06-05,SPR001,Steel Spring,90,5,No,,Summer,,No
+2024-06-05,BOL001,Hex Bolt M8,211,6,No,,Summer,,No
+2024-06-05,ASM001,Spring Assembly,18,1,No,,Summer,,No
+2024-06-06,SPR001,Steel Spring,87,5,No,,Summer,,No
+2024-06-06,BOL001,Hex Bolt M8,196,6,No,,Summer,,No
+2024-06-06,ASM001,Spring Assembly,19,0,No,,Summer,,No
+2024-06-07,SPR001,Steel Spring,105,6,No,,Summer,,No
+2024-06-07,BOL001,Hex Bolt M8,147,6,No,,Summer,,No
+2024-06-07,ASM001,Spring Assembly,21,2,No,,Summer,,No
+2024-06-10,SPR001,Steel Spring,97,5,Yes,600.0,Summer,,No
+2024-06-10,BOL001,Hex Bolt M8,181,5,Yes,1200.0,Summer,,No
+2024-06-10,ASM001,Spring Assembly,20,0,Yes,120.0,Summer,,No
+2024-06-11,SPR001,Steel Spring,109,5,No,,Summer,,No
+2024-06-11,BOL001,Hex Bolt M8,168,6,No,,Summer,,No
+2024-06-11,ASM001,Spring Assembly,21,2,No,,Summer,,No
+2024-06-12,SPR001,Steel Spring,100,4,No,,Summer,,No
+2024-06-12,BOL001,Hex Bolt M8,150,4,No,,Summer,,No
+2024-06-12,ASM001,Spring Assembly,16,1,No,,Summer,,No
+2024-06-13,SPR001,Steel Spring,90,3,No,,Summer,,No
+2024-06-13,BOL001,Hex Bolt M8,211,8,No,,Summer,,No
+2024-06-13,ASM001,Spring Assembly,23,2,No,,Summer,,No
+2024-06-14,SPR001,Steel Spring,107,6,No,,Summer,,No
+2024-06-14,BOL001,Hex Bolt M8,209,7,No,,Summer,,No
+2024-06-14,ASM001,Spring Assembly,19,0,No,,Summer,,No
+2024-06-17,SPR001,Steel Spring,87,3,Yes,600.0,Summer,,No
+2024-06-17,BOL001,Hex Bolt M8,250,9,Yes,1200.0,Summer,,No
+2024-06-17,ASM001,Spring Assembly,18,2,Yes,120.0,Summer,,No
+2024-06-18,SPR001,Steel Spring,103,4,No,,Summer,,No
+2024-06-18,BOL001,Hex Bolt M8,217,7,No,,Summer,,No
+2024-06-18,ASM001,Spring Assembly,19,1,No,,Summer,,No
+2024-06-19,SPR001,Steel Spring,97,3,No,,Summer,,No
+2024-06-19,BOL001,Hex Bolt M8,199,6,No,,Summer,,No
+2024-06-19,ASM001,Spring Assembly,19,1,No,,Summer,,No
+2024-06-20,SPR001,Steel Spring,78,4,No,,Summer,,No
+2024-06-20,BOL001,Hex Bolt M8,224,8,No,,Summer,,No
+2024-06-20,ASM001,Spring Assembly,16,0,No,,Summer,,No
+2024-06-21,SPR001,Steel Spring,102,5,No,,Summer,,No
+2024-06-21,BOL001,Hex Bolt M8,204,8,No,,Summer,,No
+2024-06-21,ASM001,Spring Assembly,18,2,No,,Summer,,No
+2024-06-24,SPR001,Steel Spring,68,3,Yes,600.0,Summer,,No
+2024-06-24,BOL001,Hex Bolt M8,172,6,Yes,1200.0,Summer,,No
+2024-06-24,ASM001,Spring Assembly,20,1,Yes,120.0,Summer,,No
+2024-06-25,SPR001,Steel Spring,112,4,No,,Summer,,No
+2024-06-25,BOL001,Hex Bolt M8,188,5,No,,Summer,,No
+2024-06-25,ASM001,Spring Assembly,20,0,No,,Summer,,No
+2024-06-26,SPR001,Steel Spring,97,4,No,,Summer,,No
+2024-06-26,BOL001,Hex Bolt M8,120,4,No,,Summer,,No
+2024-06-26,ASM001,Spring Assembly,16,1,No,,Summer,,No
+2024-06-27,SPR001,Steel Spring,126,6,No,,Summer,,No
+2024-06-27,BOL001,Hex Bolt M8,212,8,No,,Summer,,No
+2024-06-27,ASM001,Spring Assembly,20,0,No,,Summer,,No
+2024-06-28,SPR001,Steel Spring,119,4,No,,Summer,,No
+2024-06-28,BOL001,Hex Bolt M8,206,8,No,,Summer,,No
+2024-06-28,ASM001,Spring Assembly,18,0,No,,Summer,,No
+2024-07-01,SPR001,Steel Spring,100,4,Yes,600.0,Summer,,No
+2024-07-01,BOL001,Hex Bolt M8,157,4,Yes,1200.0,Summer,,No
+2024-07-01,ASM001,Spring Assembly,19,0,Yes,120.0,Summer,,No
+2024-07-02,SPR001,Steel Spring,101,6,No,,Summer,,No
+2024-07-02,BOL001,Hex Bolt M8,232,8,No,,Summer,,No
+2024-07-02,ASM001,Spring Assembly,26,0,No,,Summer,,No
+2024-07-03,SPR001,Steel Spring,108,4,No,,Summer,,No
+2024-07-03,BOL001,Hex Bolt M8,206,7,No,,Summer,,No
+2024-07-03,ASM001,Spring Assembly,23,2,No,,Summer,,No
+2024-07-04,SPR001,Steel Spring,85,5,No,,Summer,,No
+2024-07-04,BOL001,Hex Bolt M8,216,6,No,,Summer,,No
+2024-07-04,ASM001,Spring Assembly,17,2,No,,Summer,,No
+2024-07-05,SPR001,Steel Spring,98,4,No,,Summer,,No
+2024-07-05,BOL001,Hex Bolt M8,186,7,No,,Summer,,No
+2024-07-05,ASM001,Spring Assembly,17,1,No,,Summer,,No
+2024-07-08,SPR001,Steel Spring,93,3,Yes,600.0,Summer,,No
+2024-07-08,BOL001,Hex Bolt M8,144,4,Yes,1200.0,Summer,,No
+2024-07-08,ASM001,Spring Assembly,25,2,Yes,120.0,Summer,,No
+2024-07-09,SPR001,Steel Spring,91,3,No,,Summer,,No
+2024-07-09,BOL001,Hex Bolt M8,184,5,No,,Summer,,No
+2024-07-09,ASM001,Spring Assembly,23,2,No,,Summer,,No
+2024-07-10,SPR001,Steel Spring,104,6,No,,Summer,,No
+2024-07-10,BOL001,Hex Bolt M8,187,5,No,,Summer,,No
+2024-07-10,ASM001,Spring Assembly,20,2,No,,Summer,,No
+2024-07-11,SPR001,Steel Spring,92,3,No,,Summer,,No
+2024-07-11,BOL001,Hex Bolt M8,231,6,No,,Summer,,No
+2024-07-11,ASM001,Spring Assembly,26,0,No,,Summer,,No
+2024-07-12,SPR001,Steel Spring,104,5,No,,Summer,,No
+2024-07-12,BOL001,Hex Bolt M8,178,5,No,,Summer,,No
+2024-07-12,ASM001,Spring Assembly,24,2,No,,Summer,,No
+2024-07-15,SPR001,Steel Spring,112,4,Yes,600.0,Summer,,No
+2024-07-15,BOL001,Hex Bolt M8,260,7,Yes,1200.0,Summer,,No
+2024-07-15,ASM001,Spring Assembly,18,0,Yes,120.0,Summer,,No
+2024-07-16,SPR001,Steel Spring,99,4,No,,Summer,,No
+2024-07-16,BOL001,Hex Bolt M8,209,7,No,,Summer,,No
+2024-07-16,ASM001,Spring Assembly,18,1,No,,Summer,,No
+2024-07-17,SPR001,Steel Spring,96,3,No,,Summer,,No
+2024-07-17,BOL001,Hex Bolt M8,203,8,No,,Summer,,No
+2024-07-17,ASM001,Spring Assembly,21,1,No,,Summer,,No
+2024-07-18,SPR001,Steel Spring,100,4,No,,Summer,,No
+2024-07-18,BOL001,Hex Bolt M8,223,8,No,,Summer,,No
+2024-07-18,ASM001,Spring Assembly,23,0,No,,Summer,,No
+2024-07-19,SPR001,Steel Spring,91,3,No,,Summer,,No
+2024-07-19,BOL001,Hex Bolt M8,201,6,No,,Summer,,No
+2024-07-19,ASM001,Spring Assembly,19,2,No,,Summer,,No
+2024-07-22,SPR001,Steel Spring,106,6,Yes,600.0,Summer,,No
+2024-07-22,BOL001,Hex Bolt M8,190,7,Yes,1200.0,Summer,,No
+2024-07-22,ASM001,Spring Assembly,21,0,Yes,120.0,Summer,,No
+2024-07-23,SPR001,Steel Spring,104,4,No,,Summer,,No
+2024-07-23,BOL001,Hex Bolt M8,184,7,No,,Summer,,No
+2024-07-23,ASM001,Spring Assembly,18,1,No,,Summer,,No
+2024-07-24,SPR001,Steel Spring,101,6,No,,Summer,,No
+2024-07-24,BOL001,Hex Bolt M8,183,7,No,,Summer,,No
+2024-07-24,ASM001,Spring Assembly,22,1,No,,Summer,,No
+2024-07-25,SPR001,Steel Spring,100,6,No,,Summer,,No
+2024-07-25,BOL001,Hex Bolt M8,179,6,No,,Summer,,No
+2024-07-25,ASM001,Spring Assembly,26,1,No,,Summer,,No
+2024-07-26,SPR001,Steel Spring,103,4,No,,Summer,,No
+2024-07-26,BOL001,Hex Bolt M8,193,5,No,,Summer,,No
+2024-07-26,ASM001,Spring Assembly,20,0,No,,Summer,,No
+2024-07-29,SPR001,Steel Spring,71,3,Yes,600.0,Summer,,No
+2024-07-29,BOL001,Hex Bolt M8,167,7,Yes,1200.0,Summer,,No
+2024-07-29,ASM001,Spring Assembly,21,0,Yes,120.0,Summer,,No
+2024-07-30,SPR001,Steel Spring,112,6,No,,Summer,,No
+2024-07-30,BOL001,Hex Bolt M8,216,8,No,,Summer,,No
+2024-07-30,ASM001,Spring Assembly,18,2,No,,Summer,,No
+2024-07-31,SPR001,Steel Spring,100,6,No,,Summer,,No
+2024-07-31,BOL001,Hex Bolt M8,215,7,No,,Summer,,No
+2024-07-31,ASM001,Spring Assembly,24,1,No,,Summer,,No
+2024-08-01,SPR001,Steel Spring,112,4,No,,Summer,,No
+2024-08-01,BOL001,Hex Bolt M8,227,8,No,,Summer,,No
+2024-08-01,ASM001,Spring Assembly,23,1,No,,Summer,,No
+2024-08-02,SPR001,Steel Spring,87,5,No,,Summer,,No
+2024-08-02,BOL001,Hex Bolt M8,193,7,No,,Summer,,No
+2024-08-02,ASM001,Spring Assembly,18,2,No,,Summer,,No
+2024-08-05,SPR001,Steel Spring,87,3,Yes,600.0,Summer,,No
+2024-08-05,BOL001,Hex Bolt M8,195,5,Yes,1200.0,Summer,,No
+2024-08-05,ASM001,Spring Assembly,24,1,Yes,120.0,Summer,,No
+2024-08-06,SPR001,Steel Spring,105,6,No,,Summer,,No
+2024-08-06,BOL001,Hex Bolt M8,234,9,No,,Summer,,No
+2024-08-06,ASM001,Spring Assembly,18,1,No,,Summer,,No
+2024-08-07,SPR001,Steel Spring,79,3,No,,Summer,,No
+2024-08-07,BOL001,Hex Bolt M8,179,5,No,,Summer,,No
+2024-08-07,ASM001,Spring Assembly,20,1,No,,Summer,,No
+2024-08-08,SPR001,Steel Spring,74,4,No,,Summer,,No
+2024-08-08,BOL001,Hex Bolt M8,208,6,No,,Summer,,No
+2024-08-08,ASM001,Spring Assembly,24,0,No,,Summer,,No
+2024-08-09,SPR001,Steel Spring,112,6,No,,Summer,,No
+2024-08-09,BOL001,Hex Bolt M8,191,6,No,,Summer,,No
+2024-08-09,ASM001,Spring Assembly,15,2,No,,Summer,,No
+2024-08-12,SPR001,Steel Spring,113,5,Yes,600.0,Summer,,No
+2024-08-12,BOL001,Hex Bolt M8,242,9,Yes,1200.0,Summer,,No
+2024-08-12,ASM001,Spring Assembly,21,0,Yes,120.0,Summer,,No
+2024-08-13,SPR001,Steel Spring,107,6,No,,Summer,,No
+2024-08-13,BOL001,Hex Bolt M8,243,9,No,,Summer,,No
+2024-08-13,ASM001,Spring Assembly,16,0,No,,Summer,,No
+2024-08-14,SPR001,Steel Spring,109,5,No,,Summer,,No
+2024-08-14,BOL001,Hex Bolt M8,224,6,No,,Summer,,No
+2024-08-14,ASM001,Spring Assembly,22,0,No,,Summer,,No
+2024-08-15,SPR001,Steel Spring,107,6,No,,Summer,,No
+2024-08-15,BOL001,Hex Bolt M8,220,7,No,,Summer,,No
+2024-08-15,ASM001,Spring Assembly,15,1,No,,Summer,,No
+2024-08-16,SPR001,Steel Spring,102,4,No,,Summer,,No
+2024-08-16,BOL001,Hex Bolt M8,199,7,No,,Summer,,No
+2024-08-16,ASM001,Spring Assembly,16,1,No,,Summer,,No
+2024-08-19,SPR001,Steel Spring,102,6,Yes,600.0,Summer,,No
+2024-08-19,BOL001,Hex Bolt M8,221,8,Yes,1200.0,Summer,,No
+2024-08-19,ASM001,Spring Assembly,21,0,Yes,120.0,Summer,,No
+2024-08-20,SPR001,Steel Spring,96,3,No,,Summer,,No
+2024-08-20,BOL001,Hex Bolt M8,186,5,No,,Summer,,No
+2024-08-20,ASM001,Spring Assembly,15,1,No,,Summer,,No
+2024-08-21,SPR001,Steel Spring,102,6,No,,Summer,,No
+2024-08-21,BOL001,Hex Bolt M8,160,5,No,,Summer,,No
+2024-08-21,ASM001,Spring Assembly,19,1,No,,Summer,,No
+2024-08-22,SPR001,Steel Spring,97,4,No,,Summer,,No
+2024-08-22,BOL001,Hex Bolt M8,191,6,No,,Summer,,No
+2024-08-22,ASM001,Spring Assembly,17,2,No,,Summer,,No
+2024-08-23,SPR001,Steel Spring,114,6,No,,Summer,,No
+2024-08-23,BOL001,Hex Bolt M8,221,7,No,,Summer,,No
+2024-08-23,ASM001,Spring Assembly,21,0,No,,Summer,,No
+2024-08-26,SPR001,Steel Spring,111,5,Yes,600.0,Summer,,No
+2024-08-26,BOL001,Hex Bolt M8,195,7,Yes,1200.0,Summer,,No
+2024-08-26,ASM001,Spring Assembly,20,0,Yes,120.0,Summer,,No
+2024-08-27,SPR001,Steel Spring,105,4,No,,Summer,,No
+2024-08-27,BOL001,Hex Bolt M8,204,6,No,,Summer,,No
+2024-08-27,ASM001,Spring Assembly,17,2,No,,Summer,,No
+2024-08-28,SPR001,Steel Spring,84,4,No,,Summer,,No
+2024-08-28,BOL001,Hex Bolt M8,182,6,No,,Summer,,No
+2024-08-28,ASM001,Spring Assembly,22,2,No,,Summer,,No
+2024-08-29,SPR001,Steel Spring,112,6,No,,Summer,,No
+2024-08-29,BOL001,Hex Bolt M8,189,6,No,,Summer,,No
+2024-08-29,ASM001,Spring Assembly,21,0,No,,Summer,,No
+2024-08-30,SPR001,Steel Spring,120,5,No,,Summer,,No
+2024-08-30,BOL001,Hex Bolt M8,174,5,No,,Summer,,No
+2024-08-30,ASM001,Spring Assembly,16,1,No,,Summer,,No
+2024-09-02,SPR001,Steel Spring,105,5,Yes,600.0,Autumn,,No
+2024-09-02,BOL001,Hex Bolt M8,223,6,Yes,1200.0,Autumn,,No
+2024-09-02,ASM001,Spring Assembly,17,2,Yes,120.0,Autumn,,No
+2024-09-03,SPR001,Steel Spring,108,6,No,,Autumn,,No
+2024-09-03,BOL001,Hex Bolt M8,170,7,No,,Autumn,,No
+2024-09-03,ASM001,Spring Assembly,24,1,No,,Autumn,,No
+2024-09-04,SPR001,Steel Spring,111,6,No,,Autumn,,No
+2024-09-04,BOL001,Hex Bolt M8,163,4,No,,Autumn,,No
+2024-09-04,ASM001,Spring Assembly,22,1,No,,Autumn,,No
+2024-09-05,SPR001,Steel Spring,79,4,No,,Autumn,,No
+2024-09-05,BOL001,Hex Bolt M8,174,5,No,,Autumn,,No
+2024-09-05,ASM001,Spring Assembly,18,1,No,,Autumn,,No
+2024-09-06,SPR001,Steel Spring,108,5,No,,Autumn,,No
+2024-09-06,BOL001,Hex Bolt M8,156,6,No,,Autumn,,No
+2024-09-06,ASM001,Spring Assembly,22,2,No,,Autumn,,No
+2024-09-09,SPR001,Steel Spring,120,4,Yes,600.0,Autumn,,No
+2024-09-09,BOL001,Hex Bolt M8,208,6,Yes,1200.0,Autumn,,No
+2024-09-09,ASM001,Spring Assembly,22,2,Yes,120.0,Autumn,,No
+2024-09-10,SPR001,Steel Spring,100,5,No,,Autumn,,No
+2024-09-10,BOL001,Hex Bolt M8,234,7,No,,Autumn,,No
+2024-09-10,ASM001,Spring Assembly,20,1,No,,Autumn,,No
+2024-09-11,SPR001,Steel Spring,112,6,No,,Autumn,,No
+2024-09-11,BOL001,Hex Bolt M8,180,7,No,,Autumn,,No
+2024-09-11,ASM001,Spring Assembly,15,2,No,,Autumn,,No
+2024-09-12,SPR001,Steel Spring,83,5,No,,Autumn,,No
+2024-09-12,BOL001,Hex Bolt M8,199,7,No,,Autumn,,No
+2024-09-12,ASM001,Spring Assembly,22,0,No,,Autumn,,No
+2024-09-13,SPR001,Steel Spring,90,4,No,,Autumn,,No
+2024-09-13,BOL001,Hex Bolt M8,170,5,No,,Autumn,,No
+2024-09-13,ASM001,Spring Assembly,17,2,No,,Autumn,,No
+2024-09-16,SPR001,Steel Spring,99,5,Yes,600.0,Autumn,,No
+2024-09-16,BOL001,Hex Bolt M8,198,7,Yes,1200.0,Autumn,,No
+2024-09-16,ASM001,Spring Assembly,14,2,Yes,120.0,Autumn,,No
+2024-09-17,SPR001,Steel Spring,106,5,No,,Autumn,,No
+2024-09-17,BOL001,Hex Bolt M8,162,5,No,,Autumn,,No
+2024-09-17,ASM001,Spring Assembly,16,2,No,,Autumn,,No
+2024-09-18,SPR001,Steel Spring,116,6,No,,Autumn,,No
+2024-09-18,BOL001,Hex Bolt M8,167,7,No,,Autumn,,No
+2024-09-18,ASM001,Spring Assembly,15,0,No,,Autumn,,No
+2024-09-19,SPR001,Steel Spring,99,5,No,,Autumn,,No
+2024-09-19,BOL001,Hex Bolt M8,210,6,No,,Autumn,,No
+2024-09-19,ASM001,Spring Assembly,21,0,No,,Autumn,,No
+2024-09-20,SPR001,Steel Spring,92,4,No,,Autumn,,No
+2024-09-20,BOL001,Hex Bolt M8,224,7,No,,Autumn,,No
+2024-09-20,ASM001,Spring Assembly,17,2,No,,Autumn,,No
+2024-09-23,SPR001,Steel Spring,106,5,Yes,600.0,Autumn,,No
+2024-09-23,BOL001,Hex Bolt M8,162,4,Yes,1200.0,Autumn,,No
+2024-09-23,ASM001,Spring Assembly,21,0,Yes,120.0,Autumn,,No
+2024-09-24,SPR001,Steel Spring,98,5,No,,Autumn,,No
+2024-09-24,BOL001,Hex Bolt M8,175,5,No,,Autumn,,No
+2024-09-24,ASM001,Spring Assembly,24,2,No,,Autumn,,No
+2024-09-25,SPR001,Steel Spring,94,5,No,,Autumn,,No
+2024-09-25,BOL001,Hex Bolt M8,219,7,No,,Autumn,,No
+2024-09-25,ASM001,Spring Assembly,17,2,No,,Autumn,,No
+2024-09-26,SPR001,Steel Spring,88,4,No,,Autumn,,No
+2024-09-26,BOL001,Hex Bolt M8,213,8,No,,Autumn,,No
+2024-09-26,ASM001,Spring Assembly,17,1,No,,Autumn,,No
+2024-09-27,SPR001,Steel Spring,83,3,No,,Autumn,,No
+2024-09-27,BOL001,Hex Bolt M8,195,6,No,,Autumn,,No
+2024-09-27,ASM001,Spring Assembly,16,2,No,,Autumn,,No
+2024-09-30,SPR001,Steel Spring,115,6,Yes,600.0,Autumn,,No
+2024-09-30,BOL001,Hex Bolt M8,242,9,Yes,1200.0,Autumn,,No
+2024-09-30,ASM001,Spring Assembly,17,1,Yes,120.0,Autumn,,No
+2024-10-01,SPR001,Steel Spring,86,3,No,,Autumn,,No
+2024-10-01,BOL001,Hex Bolt M8,158,5,No,,Autumn,,No
+2024-10-01,ASM001,Spring Assembly,19,2,No,,Autumn,,No
+2024-10-02,SPR001,Steel Spring,106,4,No,,Autumn,,No
+2024-10-02,BOL001,Hex Bolt M8,236,9,No,,Autumn,,No
+2024-10-02,ASM001,Spring Assembly,22,2,No,,Autumn,,No
+2024-10-03,SPR001,Steel Spring,104,4,No,,Autumn,,No
+2024-10-03,BOL001,Hex Bolt M8,197,6,No,,Autumn,,No
+2024-10-03,ASM001,Spring Assembly,17,1,No,,Autumn,,No
+2024-10-04,SPR001,Steel Spring,108,4,No,,Autumn,,No
+2024-10-04,BOL001,Hex Bolt M8,177,5,No,,Autumn,,No
+2024-10-04,ASM001,Spring Assembly,15,1,No,,Autumn,,No
+2024-10-07,SPR001,Steel Spring,89,3,Yes,600.0,Autumn,,No
+2024-10-07,BOL001,Hex Bolt M8,200,8,Yes,1200.0,Autumn,,No
+2024-10-07,ASM001,Spring Assembly,18,1,Yes,120.0,Autumn,,No
+2024-10-08,SPR001,Steel Spring,95,3,No,,Autumn,,No
+2024-10-08,BOL001,Hex Bolt M8,198,6,No,,Autumn,,No
+2024-10-08,ASM001,Spring Assembly,21,0,No,,Autumn,,No
+2024-10-09,SPR001,Steel Spring,89,4,No,,Autumn,,No
+2024-10-09,BOL001,Hex Bolt M8,176,7,No,,Autumn,,No
+2024-10-09,ASM001,Spring Assembly,17,0,No,,Autumn,,No
+2024-10-10,SPR001,Steel Spring,93,3,No,,Autumn,,No
+2024-10-10,BOL001,Hex Bolt M8,205,6,No,,Autumn,,No
+2024-10-10,ASM001,Spring Assembly,17,0,No,,Autumn,,No
+2024-10-11,SPR001,Steel Spring,98,5,No,,Autumn,,No
+2024-10-11,BOL001,Hex Bolt M8,191,6,No,,Autumn,,No
+2024-10-11,ASM001,Spring Assembly,14,0,No,,Autumn,,No
+2024-10-14,SPR001,Steel Spring,96,5,Yes,600.0,Autumn,,No
+2024-10-14,BOL001,Hex Bolt M8,224,8,Yes,1200.0,Autumn,,No
+2024-10-14,ASM001,Spring Assembly,14,0,Yes,120.0,Autumn,,No
+2024-10-15,SPR001,Steel Spring,92,4,No,,Autumn,,No
+2024-10-15,BOL001,Hex Bolt M8,158,5,No,,Autumn,,No
+2024-10-15,ASM001,Spring Assembly,24,0,No,,Autumn,,No
+2024-10-16,SPR001,Steel Spring,105,6,No,,Autumn,,No
+2024-10-16,BOL001,Hex Bolt M8,167,6,No,,Autumn,,No
+2024-10-16,ASM001,Spring Assembly,24,0,No,,Autumn,,No
+2024-10-17,SPR001,Steel Spring,127,5,No,,Autumn,,No
+2024-10-17,BOL001,Hex Bolt M8,250,8,No,,Autumn,,No
+2024-10-17,ASM001,Spring Assembly,17,1,No,,Autumn,,No
+2024-10-18,SPR001,Steel Spring,109,6,No,,Autumn,,No
+2024-10-18,BOL001,Hex Bolt M8,144,5,No,,Autumn,,No
+2024-10-18,ASM001,Spring Assembly,20,2,No,,Autumn,,No
+2024-10-21,SPR001,Steel Spring,93,4,Yes,600.0,Autumn,,No
+2024-10-21,BOL001,Hex Bolt M8,177,6,Yes,1200.0,Autumn,,No
+2024-10-21,ASM001,Spring Assembly,19,1,Yes,120.0,Autumn,,No
+2024-10-22,SPR001,Steel Spring,86,5,No,,Autumn,,No
+2024-10-22,BOL001,Hex Bolt M8,227,7,No,,Autumn,,No
+2024-10-22,ASM001,Spring Assembly,17,0,No,,Autumn,,No
+2024-10-23,SPR001,Steel Spring,117,5,No,,Autumn,,No
+2024-10-23,BOL001,Hex Bolt M8,216,7,No,,Autumn,,No
+2024-10-23,ASM001,Spring Assembly,16,0,No,,Autumn,,No
+2024-10-24,SPR001,Steel Spring,91,4,No,,Autumn,,No
+2024-10-24,BOL001,Hex Bolt M8,150,5,No,,Autumn,,No
+2024-10-24,ASM001,Spring Assembly,23,2,No,,Autumn,,No
+2024-10-25,SPR001,Steel Spring,97,3,No,,Autumn,,No
+2024-10-25,BOL001,Hex Bolt M8,226,8,No,,Autumn,,No
+2024-10-25,ASM001,Spring Assembly,17,1,No,,Autumn,,No
+2024-10-28,SPR001,Steel Spring,110,6,Yes,600.0,Autumn,,No
+2024-10-28,BOL001,Hex Bolt M8,198,5,Yes,1200.0,Autumn,,No
+2024-10-28,ASM001,Spring Assembly,23,2,Yes,120.0,Autumn,,No
+2024-10-29,SPR001,Steel Spring,86,3,No,,Autumn,,No
+2024-10-29,BOL001,Hex Bolt M8,138,5,No,,Autumn,,No
+2024-10-29,ASM001,Spring Assembly,20,1,No,,Autumn,,No
+2024-10-30,SPR001,Steel Spring,114,6,No,,Autumn,,No
+2024-10-30,BOL001,Hex Bolt M8,204,7,No,,Autumn,,No
+2024-10-30,ASM001,Spring Assembly,21,1,No,,Autumn,,No
+2024-10-31,SPR001,Steel Spring,113,4,No,,Autumn,,No
+2024-10-31,BOL001,Hex Bolt M8,207,7,No,,Autumn,,No
+2024-10-31,ASM001,Spring Assembly,21,2,No,,Autumn,,No
+2024-11-01,SPR001,Steel Spring,92,4,No,,Autumn,,No
+2024-11-01,BOL001,Hex Bolt M8,219,7,No,,Autumn,,No
+2024-11-01,ASM001,Spring Assembly,23,0,No,,Autumn,,No
+2024-11-04,SPR001,Steel Spring,111,4,Yes,600.0,Autumn,,No
+2024-11-04,BOL001,Hex Bolt M8,217,6,Yes,1200.0,Autumn,,No
+2024-11-04,ASM001,Spring Assembly,17,0,Yes,120.0,Autumn,,No
+2024-11-05,SPR001,Steel Spring,112,5,No,,Autumn,,No
+2024-11-05,BOL001,Hex Bolt M8,224,7,No,,Autumn,,No
+2024-11-05,ASM001,Spring Assembly,15,2,No,,Autumn,,No
+2024-11-06,SPR001,Steel Spring,106,4,No,,Autumn,,No
+2024-11-06,BOL001,Hex Bolt M8,178,6,No,,Autumn,,No
+2024-11-06,ASM001,Spring Assembly,20,1,No,,Autumn,,No
+2024-11-07,SPR001,Steel Spring,107,5,No,,Autumn,,No
+2024-11-07,BOL001,Hex Bolt M8,150,5,No,,Autumn,,No
+2024-11-07,ASM001,Spring Assembly,21,2,No,,Autumn,,No
+2024-11-08,SPR001,Steel Spring,98,5,No,,Autumn,,No
+2024-11-08,BOL001,Hex Bolt M8,212,8,No,,Autumn,,No
+2024-11-08,ASM001,Spring Assembly,21,2,No,,Autumn,,No
+2024-11-11,SPR001,Steel Spring,112,5,Yes,600.0,Autumn,,No
+2024-11-11,BOL001,Hex Bolt M8,219,8,Yes,1200.0,Autumn,,No
+2024-11-11,ASM001,Spring Assembly,21,0,Yes,120.0,Autumn,,No
+2024-11-12,SPR001,Steel Spring,105,5,No,,Autumn,,No
+2024-11-12,BOL001,Hex Bolt M8,240,9,No,,Autumn,,No
+2024-11-12,ASM001,Spring Assembly,22,2,No,,Autumn,,No
+2024-11-13,SPR001,Steel Spring,121,4,No,,Autumn,,No
+2024-11-13,BOL001,Hex Bolt M8,194,5,No,,Autumn,,No
+2024-11-13,ASM001,Spring Assembly,18,2,No,,Autumn,,No
+2024-11-14,SPR001,Steel Spring,85,3,No,,Autumn,,No
+2024-11-14,BOL001,Hex Bolt M8,223,8,No,,Autumn,,No
+2024-11-14,ASM001,Spring Assembly,19,0,No,,Autumn,,No
+2024-11-15,SPR001,Steel Spring,112,4,No,,Autumn,,No
+2024-11-15,BOL001,Hex Bolt M8,246,8,No,,Autumn,,No
+2024-11-15,ASM001,Spring Assembly,19,2,No,,Autumn,,No
+2024-11-18,SPR001,Steel Spring,112,4,Yes,600.0,Autumn,,No
+2024-11-18,BOL001,Hex Bolt M8,169,7,Yes,1200.0,Autumn,,No
+2024-11-18,ASM001,Spring Assembly,18,2,Yes,120.0,Autumn,,No
+2024-11-19,SPR001,Steel Spring,104,5,No,,Autumn,,No
+2024-11-19,BOL001,Hex Bolt M8,207,8,No,,Autumn,,No
+2024-11-19,ASM001,Spring Assembly,17,1,No,,Autumn,,No
+2024-11-20,SPR001,Steel Spring,117,4,No,,Autumn,,No
+2024-11-20,BOL001,Hex Bolt M8,137,5,No,,Autumn,,No
+2024-11-20,ASM001,Spring Assembly,21,0,No,,Autumn,,No
+2024-11-21,SPR001,Steel Spring,75,3,No,,Autumn,,No
+2024-11-21,BOL001,Hex Bolt M8,255,8,No,,Autumn,,No
+2024-11-21,ASM001,Spring Assembly,17,2,No,,Autumn,,No
+2024-11-22,SPR001,Steel Spring,113,5,No,,Autumn,,No
+2024-11-22,BOL001,Hex Bolt M8,161,5,No,,Autumn,,No
+2024-11-22,ASM001,Spring Assembly,19,0,No,,Autumn,,No
+2024-11-25,SPR001,Steel Spring,93,5,Yes,600.0,Autumn,,No
+2024-11-25,BOL001,Hex Bolt M8,167,6,Yes,1200.0,Autumn,,No
+2024-11-25,ASM001,Spring Assembly,17,1,Yes,120.0,Autumn,,No
+2024-11-26,SPR001,Steel Spring,95,4,No,,Autumn,,No
+2024-11-26,BOL001,Hex Bolt M8,236,7,No,,Autumn,,No
+2024-11-26,ASM001,Spring Assembly,25,0,No,,Autumn,,No
+2024-11-27,SPR001,Steel Spring,114,5,No,,Autumn,,No
+2024-11-27,BOL001,Hex Bolt M8,209,6,No,,Autumn,,No
+2024-11-27,ASM001,Spring Assembly,19,1,No,,Autumn,,No
+2024-11-28,SPR001,Steel Spring,86,5,No,,Autumn,,No
+2024-11-28,BOL001,Hex Bolt M8,180,5,No,,Autumn,,No
+2024-11-28,ASM001,Spring Assembly,22,1,No,,Autumn,,No
+2024-11-29,SPR001,Steel Spring,118,4,No,,Autumn,,No
+2024-11-29,BOL001,Hex Bolt M8,240,8,No,,Autumn,,No
+2024-11-29,ASM001,Spring Assembly,21,0,No,,Autumn,,No
+2024-12-02,SPR001,Steel Spring,88,5,Yes,600.0,Winter,,No
+2024-12-02,BOL001,Hex Bolt M8,174,5,Yes,1200.0,Winter,,No
+2024-12-02,ASM001,Spring Assembly,23,2,Yes,120.0,Winter,,No
+2024-12-03,SPR001,Steel Spring,115,5,No,,Winter,,No
+2024-12-03,BOL001,Hex Bolt M8,227,7,No,,Winter,,No
+2024-12-03,ASM001,Spring Assembly,19,1,No,,Winter,,No
+2024-12-04,SPR001,Steel Spring,126,6,No,,Winter,,No
+2024-12-04,BOL001,Hex Bolt M8,263,7,No,,Winter,,No
+2024-12-04,ASM001,Spring Assembly,23,2,No,,Winter,,No
+2024-12-05,SPR001,Steel Spring,86,5,No,,Winter,,No
+2024-12-05,BOL001,Hex Bolt M8,165,4,No,,Winter,,No
+2024-12-05,ASM001,Spring Assembly,15,1,No,,Winter,,No
+2024-12-06,SPR001,Steel Spring,106,5,No,,Winter,,No
+2024-12-06,BOL001,Hex Bolt M8,182,7,No,,Winter,,No
+2024-12-06,ASM001,Spring Assembly,21,0,No,,Winter,,No
+2024-12-09,SPR001,Steel Spring,97,3,Yes,600.0,Winter,,No
+2024-12-09,BOL001,Hex Bolt M8,204,6,Yes,1200.0,Winter,,No
+2024-12-09,ASM001,Spring Assembly,23,1,Yes,120.0,Winter,,No
+2024-12-10,SPR001,Steel Spring,107,5,No,,Winter,,No
+2024-12-10,BOL001,Hex Bolt M8,188,7,No,,Winter,,No
+2024-12-10,ASM001,Spring Assembly,26,1,No,,Winter,,No
+2024-12-11,SPR001,Steel Spring,103,5,No,,Winter,,No
+2024-12-11,BOL001,Hex Bolt M8,212,6,No,,Winter,,No
+2024-12-11,ASM001,Spring Assembly,21,0,No,,Winter,,No
+2024-12-12,SPR001,Steel Spring,94,4,No,,Winter,,No
+2024-12-12,BOL001,Hex Bolt M8,211,6,No,,Winter,,No
+2024-12-12,ASM001,Spring Assembly,16,1,No,,Winter,,No
+2024-12-13,SPR001,Steel Spring,88,5,No,,Winter,,No
+2024-12-13,BOL001,Hex Bolt M8,206,7,No,,Winter,,No
+2024-12-13,ASM001,Spring Assembly,18,2,No,,Winter,,No
+2024-12-16,SPR001,Steel Spring,101,4,Yes,600.0,Winter,,No
+2024-12-16,BOL001,Hex Bolt M8,163,6,Yes,1200.0,Winter,,No
+2024-12-16,ASM001,Spring Assembly,22,0,Yes,120.0,Winter,,No
+2024-12-17,SPR001,Steel Spring,100,4,No,,Winter,,No
+2024-12-17,BOL001,Hex Bolt M8,246,8,No,,Winter,,No
+2024-12-17,ASM001,Spring Assembly,19,2,No,,Winter,,No
+2024-12-18,SPR001,Steel Spring,114,5,No,,Winter,,No
+2024-12-18,BOL001,Hex Bolt M8,176,5,No,,Winter,,No
+2024-12-18,ASM001,Spring Assembly,19,1,No,,Winter,,No
+2024-12-19,SPR001,Steel Spring,83,5,No,,Winter,,No
+2024-12-19,BOL001,Hex Bolt M8,238,8,No,,Winter,,No
+2024-12-19,ASM001,Spring Assembly,23,2,No,,Winter,,No
+2024-12-20,SPR001,Steel Spring,72,4,No,,Winter,,No
+2024-12-20,BOL001,Hex Bolt M8,200,8,No,,Winter,,No
+2024-12-20,ASM001,Spring Assembly,19,1,No,,Winter,,No
+2024-12-23,SPR001,Steel Spring,90,4,Yes,600.0,Winter,,No
+2024-12-23,BOL001,Hex Bolt M8,187,7,Yes,1200.0,Winter,,No
+2024-12-23,ASM001,Spring Assembly,19,2,Yes,120.0,Winter,,No
+2024-12-24,SPR001,Steel Spring,67,4,No,,Winter,,No
+2024-12-24,BOL001,Hex Bolt M8,168,7,No,,Winter,,No
+2024-12-24,ASM001,Spring Assembly,23,2,No,,Winter,,No
+2024-12-25,SPR001,Steel Spring,93,4,No,,Winter,Christmas,No
+2024-12-25,BOL001,Hex Bolt M8,250,6,No,,Winter,Christmas,Yes
+2024-12-25,ASM001,Spring Assembly,18,2,No,,Winter,Christmas,No
+2024-12-26,SPR001,Steel Spring,98,5,No,,Winter,,No
+2024-12-26,BOL001,Hex Bolt M8,209,7,No,,Winter,,No
+2024-12-26,ASM001,Spring Assembly,21,2,No,,Winter,,No
+2024-12-27,SPR001,Steel Spring,61,4,No,,Winter,,No
+2024-12-27,BOL001,Hex Bolt M8,188,5,No,,Winter,,No
+2024-12-27,ASM001,Spring Assembly,24,0,No,,Winter,,No
+2024-12-30,SPR001,Steel Spring,102,5,Yes,600.0,Winter,,No
+2024-12-30,BOL001,Hex Bolt M8,172,5,Yes,1200.0,Winter,,No
+2024-12-30,ASM001,Spring Assembly,17,1,Yes,120.0,Winter,,No
+2024-12-31,SPR001,Steel Spring,108,6,No,,Winter,,No
+2024-12-31,BOL001,Hex Bolt M8,160,5,No,,Winter,,No
+2024-12-31,ASM001,Spring Assembly,16,1,No,,Winter,,No
+2025-01-01,SPR001,Steel Spring,95,3,No,,Winter,,No
+2025-01-01,BOL001,Hex Bolt M8,185,6,No,,Winter,,No
+2025-01-01,ASM001,Spring Assembly,20,1,No,,Winter,,No
+2025-01-02,SPR001,Steel Spring,91,5,No,,Winter,,No
+2025-01-02,BOL001,Hex Bolt M8,188,5,No,,Winter,,No
+2025-01-02,ASM001,Spring Assembly,21,2,No,,Winter,,No
+2025-01-03,SPR001,Steel Spring,78,5,No,,Winter,,No
+2025-01-03,BOL001,Hex Bolt M8,221,6,No,,Winter,,No
+2025-01-03,ASM001,Spring Assembly,17,0,No,,Winter,,No
+2025-01-06,SPR001,Steel Spring,110,4,Yes,600.0,Winter,,No
+2025-01-06,BOL001,Hex Bolt M8,201,6,Yes,1200.0,Winter,,No
+2025-01-06,ASM001,Spring Assembly,19,1,Yes,120.0,Winter,,No
+2025-01-07,SPR001,Steel Spring,109,4,No,,Winter,,No
+2025-01-07,BOL001,Hex Bolt M8,218,8,No,,Winter,,No
+2025-01-07,ASM001,Spring Assembly,13,1,No,,Winter,,No
+2025-01-08,SPR001,Steel Spring,86,3,No,,Winter,,No
+2025-01-08,BOL001,Hex Bolt M8,189,6,No,,Winter,,No
+2025-01-08,ASM001,Spring Assembly,17,2,No,,Winter,,No
+2025-01-09,SPR001,Steel Spring,104,5,No,,Winter,,No
+2025-01-09,BOL001,Hex Bolt M8,238,7,No,,Winter,,No
+2025-01-09,ASM001,Spring Assembly,16,2,No,,Winter,,No
+2025-01-10,SPR001,Steel Spring,79,4,No,,Winter,,No
+2025-01-10,BOL001,Hex Bolt M8,169,5,No,,Winter,,No
+2025-01-10,ASM001,Spring Assembly,21,1,No,,Winter,,No
+2025-01-13,SPR001,Steel Spring,89,3,Yes,600.0,Winter,,No
+2025-01-13,BOL001,Hex Bolt M8,170,6,Yes,1200.0,Winter,,No
+2025-01-13,ASM001,Spring Assembly,20,2,Yes,120.0,Winter,,No
+2025-01-14,SPR001,Steel Spring,120,4,No,,Winter,,No
+2025-01-14,BOL001,Hex Bolt M8,155,5,No,,Winter,,No
+2025-01-14,ASM001,Spring Assembly,24,1,No,,Winter,,No
+2025-01-15,SPR001,Steel Spring,106,6,No,,Winter,,No
+2025-01-15,BOL001,Hex Bolt M8,187,7,No,,Winter,,No
+2025-01-15,ASM001,Spring Assembly,18,0,No,,Winter,,No
+2025-01-16,SPR001,Steel Spring,86,4,No,,Winter,,No
+2025-01-16,BOL001,Hex Bolt M8,194,7,No,,Winter,,No
+2025-01-16,ASM001,Spring Assembly,21,1,No,,Winter,,No
+2025-01-17,SPR001,Steel Spring,91,3,No,,Winter,,No
+2025-01-17,BOL001,Hex Bolt M8,223,7,No,,Winter,,No
+2025-01-17,ASM001,Spring Assembly,24,1,No,,Winter,,No
+2025-01-20,SPR001,Steel Spring,100,6,Yes,600.0,Winter,,No
+2025-01-20,BOL001,Hex Bolt M8,190,5,Yes,1200.0,Winter,,No
+2025-01-20,ASM001,Spring Assembly,24,2,Yes,120.0,Winter,,No
+2025-01-21,SPR001,Steel Spring,102,4,No,,Winter,,No
+2025-01-21,BOL001,Hex Bolt M8,201,7,No,,Winter,,No
+2025-01-21,ASM001,Spring Assembly,19,0,No,,Winter,,No
+2025-01-22,SPR001,Steel Spring,61,4,No,,Winter,,No
+2025-01-22,BOL001,Hex Bolt M8,238,9,No,,Winter,,No
+2025-01-22,ASM001,Spring Assembly,23,0,No,,Winter,,No
+2025-01-23,SPR001,Steel Spring,97,3,No,,Winter,,No
+2025-01-23,BOL001,Hex Bolt M8,212,7,No,,Winter,,No
+2025-01-23,ASM001,Spring Assembly,25,1,No,,Winter,,No
+2025-01-24,SPR001,Steel Spring,88,4,No,,Winter,,No
+2025-01-24,BOL001,Hex Bolt M8,163,5,No,,Winter,,No
+2025-01-24,ASM001,Spring Assembly,23,2,No,,Winter,,No
+2025-01-27,SPR001,Steel Spring,96,4,Yes,600.0,Winter,,No
+2025-01-27,BOL001,Hex Bolt M8,165,5,Yes,1200.0,Winter,,No
+2025-01-27,ASM001,Spring Assembly,18,0,Yes,120.0,Winter,,No
+2025-01-28,SPR001,Steel Spring,93,5,No,,Winter,,No
+2025-01-28,BOL001,Hex Bolt M8,172,5,No,,Winter,,No
+2025-01-28,ASM001,Spring Assembly,21,2,No,,Winter,,No
+2025-01-29,SPR001,Steel Spring,84,4,No,,Winter,,No
+2025-01-29,BOL001,Hex Bolt M8,183,7,No,,Winter,,No
+2025-01-29,ASM001,Spring Assembly,19,0,No,,Winter,,No
+2025-01-30,SPR001,Steel Spring,82,4,No,,Winter,,No
+2025-01-30,BOL001,Hex Bolt M8,201,6,No,,Winter,,No
+2025-01-30,ASM001,Spring Assembly,25,1,No,,Winter,,No
+2025-01-31,SPR001,Steel Spring,102,5,No,,Winter,,No
+2025-01-31,BOL001,Hex Bolt M8,202,8,No,,Winter,,No
+2025-01-31,ASM001,Spring Assembly,19,1,No,,Winter,,No
+2025-02-03,SPR001,Steel Spring,101,5,Yes,600.0,Winter,,No
+2025-02-03,BOL001,Hex Bolt M8,193,6,Yes,1200.0,Winter,,No
+2025-02-03,ASM001,Spring Assembly,19,1,Yes,120.0,Winter,,No
+2025-02-04,SPR001,Steel Spring,117,6,No,,Winter,,No
+2025-02-04,BOL001,Hex Bolt M8,180,5,No,,Winter,,No
+2025-02-04,ASM001,Spring Assembly,20,2,No,,Winter,,No
+2025-02-05,SPR001,Steel Spring,113,4,No,,Winter,,No
+2025-02-05,BOL001,Hex Bolt M8,194,7,No,,Winter,,No
+2025-02-05,ASM001,Spring Assembly,18,0,No,,Winter,,No
+2025-02-06,SPR001,Steel Spring,114,5,No,,Winter,,No
+2025-02-06,BOL001,Hex Bolt M8,168,6,No,,Winter,,No
+2025-02-06,ASM001,Spring Assembly,24,1,No,,Winter,,No
+2025-02-07,SPR001,Steel Spring,87,4,No,,Winter,,No
+2025-02-07,BOL001,Hex Bolt M8,183,7,No,,Winter,,No
+2025-02-07,ASM001,Spring Assembly,18,0,No,,Winter,,No
+2025-02-10,SPR001,Steel Spring,120,6,Yes,600.0,Winter,,No
+2025-02-10,BOL001,Hex Bolt M8,229,7,Yes,1200.0,Winter,,No
+2025-02-10,ASM001,Spring Assembly,19,1,Yes,120.0,Winter,,No
+2025-02-11,SPR001,Steel Spring,100,5,No,,Winter,,No
+2025-02-11,BOL001,Hex Bolt M8,163,5,No,,Winter,,No
+2025-02-11,ASM001,Spring Assembly,22,2,No,,Winter,,No
+2025-02-12,SPR001,Steel Spring,93,4,No,,Winter,,No
+2025-02-12,BOL001,Hex Bolt M8,185,6,No,,Winter,,No
+2025-02-12,ASM001,Spring Assembly,20,2,No,,Winter,,No
+2025-02-13,SPR001,Steel Spring,92,4,No,,Winter,,No
+2025-02-13,BOL001,Hex Bolt M8,200,7,No,,Winter,,No
+2025-02-13,ASM001,Spring Assembly,18,0,No,,Winter,,No
+2025-02-14,SPR001,Steel Spring,92,4,No,,Winter,,No
+2025-02-14,BOL001,Hex Bolt M8,170,5,No,,Winter,,No
+2025-02-14,ASM001,Spring Assembly,18,0,No,,Winter,,No
+2025-02-17,SPR001,Steel Spring,120,5,Yes,600.0,Winter,,No
+2025-02-17,BOL001,Hex Bolt M8,258,8,Yes,1200.0,Winter,,No
+2025-02-17,ASM001,Spring Assembly,19,2,Yes,120.0,Winter,,No
+2025-02-18,SPR001,Steel Spring,105,5,No,,Winter,,No
+2025-02-18,BOL001,Hex Bolt M8,202,8,No,,Winter,,No
+2025-02-18,ASM001,Spring Assembly,23,1,No,,Winter,,No
+2025-02-19,SPR001,Steel Spring,96,3,No,,Winter,,No
+2025-02-19,BOL001,Hex Bolt M8,245,8,No,,Winter,,No
+2025-02-19,ASM001,Spring Assembly,16,1,No,,Winter,,No
+2025-02-20,SPR001,Steel Spring,99,4,No,,Winter,,No
+2025-02-20,BOL001,Hex Bolt M8,195,7,No,,Winter,,No
+2025-02-20,ASM001,Spring Assembly,19,1,No,,Winter,,No
+2025-02-21,SPR001,Steel Spring,100,4,No,,Winter,,No
+2025-02-21,BOL001,Hex Bolt M8,204,6,No,,Winter,,No
+2025-02-21,ASM001,Spring Assembly,21,1,No,,Winter,,No
+2025-02-24,SPR001,Steel Spring,126,5,Yes,600.0,Winter,,No
+2025-02-24,BOL001,Hex Bolt M8,194,6,Yes,1200.0,Winter,,No
+2025-02-24,ASM001,Spring Assembly,18,2,Yes,120.0,Winter,,No
+2025-02-25,SPR001,Steel Spring,111,4,No,,Winter,,No
+2025-02-25,BOL001,Hex Bolt M8,200,8,No,,Winter,,No
+2025-02-25,ASM001,Spring Assembly,21,1,No,,Winter,,No
+2025-02-26,SPR001,Steel Spring,155,6,No,,Winter,,No
+2025-02-26,BOL001,Hex Bolt M8,203,7,No,,Winter,,No
+2025-02-26,ASM001,Spring Assembly,13,2,No,,Winter,,No
+2025-02-27,SPR001,Steel Spring,98,5,No,,Winter,,No
+2025-02-27,BOL001,Hex Bolt M8,214,6,No,,Winter,,No
+2025-02-27,ASM001,Spring Assembly,22,1,No,,Winter,,No
+2025-02-28,SPR001,Steel Spring,92,3,No,,Winter,,No
+2025-02-28,BOL001,Hex Bolt M8,188,7,No,,Winter,,No
+2025-02-28,ASM001,Spring Assembly,17,0,No,,Winter,,No
+2025-03-03,SPR001,Steel Spring,124,6,Yes,600.0,Spring,,No
+2025-03-03,BOL001,Hex Bolt M8,183,5,Yes,1200.0,Spring,,No
+2025-03-03,ASM001,Spring Assembly,20,0,Yes,120.0,Spring,,No
+2025-03-04,SPR001,Steel Spring,82,4,No,,Spring,,No
+2025-03-04,BOL001,Hex Bolt M8,167,5,No,,Spring,,No
+2025-03-04,ASM001,Spring Assembly,21,0,No,,Spring,,No
+2025-03-05,SPR001,Steel Spring,87,4,No,,Spring,,No
+2025-03-05,BOL001,Hex Bolt M8,195,5,No,,Spring,,No
+2025-03-05,ASM001,Spring Assembly,17,0,No,,Spring,,No
+2025-03-06,SPR001,Steel Spring,68,3,No,,Spring,,No
+2025-03-06,BOL001,Hex Bolt M8,177,6,No,,Spring,,No
+2025-03-06,ASM001,Spring Assembly,20,0,No,,Spring,,No
+2025-03-07,SPR001,Steel Spring,101,5,No,,Spring,,No
+2025-03-07,BOL001,Hex Bolt M8,213,7,No,,Spring,,No
+2025-03-07,ASM001,Spring Assembly,16,1,No,,Spring,,No
+2025-03-10,SPR001,Steel Spring,83,5,Yes,600.0,Spring,,No
+2025-03-10,BOL001,Hex Bolt M8,213,6,Yes,1200.0,Spring,,No
+2025-03-10,ASM001,Spring Assembly,23,1,Yes,120.0,Spring,,No
+2025-03-11,SPR001,Steel Spring,92,5,No,,Spring,,No
+2025-03-11,BOL001,Hex Bolt M8,226,8,No,,Spring,,No
+2025-03-11,ASM001,Spring Assembly,20,0,No,,Spring,,No
+2025-03-12,SPR001,Steel Spring,129,7,No,,Spring,,No
+2025-03-12,BOL001,Hex Bolt M8,186,5,No,,Spring,,No
+2025-03-12,ASM001,Spring Assembly,15,1,No,,Spring,,No
+2025-03-13,SPR001,Steel Spring,80,5,No,,Spring,,No
+2025-03-13,BOL001,Hex Bolt M8,172,6,No,,Spring,,No
+2025-03-13,ASM001,Spring Assembly,22,2,No,,Spring,,No
+2025-03-14,SPR001,Steel Spring,122,4,No,,Spring,,No
+2025-03-14,BOL001,Hex Bolt M8,201,8,No,,Spring,,No
+2025-03-14,ASM001,Spring Assembly,22,2,No,,Spring,,No
+2025-03-17,SPR001,Steel Spring,101,5,Yes,600.0,Spring,,No
+2025-03-17,BOL001,Hex Bolt M8,152,4,Yes,1200.0,Spring,,No
+2025-03-17,ASM001,Spring Assembly,22,1,Yes,120.0,Spring,,No
+2025-03-18,SPR001,Steel Spring,118,5,No,,Spring,,No
+2025-03-18,BOL001,Hex Bolt M8,202,8,No,,Spring,,No
+2025-03-18,ASM001,Spring Assembly,16,0,No,,Spring,,No
+2025-03-19,SPR001,Steel Spring,106,4,No,,Spring,,No
+2025-03-19,BOL001,Hex Bolt M8,209,8,No,,Spring,,No
+2025-03-19,ASM001,Spring Assembly,24,1,No,,Spring,,No
+2025-03-20,SPR001,Steel Spring,77,3,No,,Spring,,No
+2025-03-20,BOL001,Hex Bolt M8,165,5,No,,Spring,,No
+2025-03-20,ASM001,Spring Assembly,14,0,No,,Spring,,No
+2025-03-21,SPR001,Steel Spring,95,3,No,,Spring,,No
+2025-03-21,BOL001,Hex Bolt M8,212,6,No,,Spring,,No
+2025-03-21,ASM001,Spring Assembly,18,2,No,,Spring,,No
+2025-03-24,SPR001,Steel Spring,74,4,Yes,600.0,Spring,,No
+2025-03-24,BOL001,Hex Bolt M8,216,7,Yes,1200.0,Spring,,No
+2025-03-24,ASM001,Spring Assembly,20,1,Yes,120.0,Spring,,No
+2025-03-25,SPR001,Steel Spring,101,4,No,,Spring,,No
+2025-03-25,BOL001,Hex Bolt M8,194,6,No,,Spring,,No
+2025-03-25,ASM001,Spring Assembly,21,0,No,,Spring,,No
+2025-03-26,SPR001,Steel Spring,99,5,No,,Spring,,No
+2025-03-26,BOL001,Hex Bolt M8,143,6,No,,Spring,,No
+2025-03-26,ASM001,Spring Assembly,19,1,No,,Spring,,No
+2025-03-27,SPR001,Steel Spring,97,4,No,,Spring,,No
+2025-03-27,BOL001,Hex Bolt M8,220,6,No,,Spring,,No
+2025-03-27,ASM001,Spring Assembly,14,1,No,,Spring,,No
+2025-03-28,SPR001,Steel Spring,129,7,No,,Spring,,No
+2025-03-28,BOL001,Hex Bolt M8,182,5,No,,Spring,,No
+2025-03-28,ASM001,Spring Assembly,18,2,No,,Spring,,No
+2025-03-31,SPR001,Steel Spring,97,4,Yes,600.0,Spring,,No
+2025-03-31,BOL001,Hex Bolt M8,190,6,Yes,1200.0,Spring,,No
+2025-03-31,ASM001,Spring Assembly,19,2,Yes,120.0,Spring,,No
+2025-04-01,SPR001,Steel Spring,118,4,No,,Spring,,No
+2025-04-01,BOL001,Hex Bolt M8,158,4,No,,Spring,,No
+2025-04-01,ASM001,Spring Assembly,23,0,No,,Spring,,No
+2025-04-02,SPR001,Steel Spring,94,5,No,,Spring,,No
+2025-04-02,BOL001,Hex Bolt M8,163,4,No,,Spring,,No
+2025-04-02,ASM001,Spring Assembly,23,1,No,,Spring,,No
+2025-04-03,SPR001,Steel Spring,94,5,No,,Spring,,No
+2025-04-03,BOL001,Hex Bolt M8,205,8,No,,Spring,,No
+2025-04-03,ASM001,Spring Assembly,15,0,No,,Spring,,No
+2025-04-04,SPR001,Steel Spring,125,5,No,,Spring,,No
+2025-04-04,BOL001,Hex Bolt M8,208,6,No,,Spring,,No
+2025-04-04,ASM001,Spring Assembly,23,1,No,,Spring,,No
+2025-04-07,SPR001,Steel Spring,116,4,Yes,600.0,Spring,,No
+2025-04-07,BOL001,Hex Bolt M8,169,5,Yes,1200.0,Spring,,No
+2025-04-07,ASM001,Spring Assembly,26,0,Yes,120.0,Spring,,No
+2025-04-08,SPR001,Steel Spring,101,5,No,,Spring,,No
+2025-04-08,BOL001,Hex Bolt M8,241,7,No,,Spring,,No
+2025-04-08,ASM001,Spring Assembly,22,1,No,,Spring,,No
+2025-04-09,SPR001,Steel Spring,84,4,No,,Spring,,No
+2025-04-09,BOL001,Hex Bolt M8,217,6,No,,Spring,,No
+2025-04-09,ASM001,Spring Assembly,25,0,No,,Spring,,No
+2025-04-10,SPR001,Steel Spring,93,5,No,,Spring,Easter,No
+2025-04-10,BOL001,Hex Bolt M8,173,5,No,,Spring,Easter,No
+2025-04-10,ASM001,Spring Assembly,26,2,No,,Spring,Easter,Yes
+2025-04-11,SPR001,Steel Spring,79,4,No,,Spring,,No
+2025-04-11,BOL001,Hex Bolt M8,190,6,No,,Spring,,No
+2025-04-11,ASM001,Spring Assembly,22,0,No,,Spring,,No
+2025-04-14,SPR001,Steel Spring,90,5,Yes,600.0,Spring,,No
+2025-04-14,BOL001,Hex Bolt M8,223,6,Yes,1200.0,Spring,,No
+2025-04-14,ASM001,Spring Assembly,24,1,Yes,120.0,Spring,,No
+2025-04-15,SPR001,Steel Spring,108,6,No,,Spring,,No
+2025-04-15,BOL001,Hex Bolt M8,231,6,No,,Spring,,No
+2025-04-15,ASM001,Spring Assembly,20,1,No,,Spring,,No
+2025-04-16,SPR001,Steel Spring,91,5,No,,Spring,,No
+2025-04-16,BOL001,Hex Bolt M8,188,5,No,,Spring,,No
+2025-04-16,ASM001,Spring Assembly,15,0,No,,Spring,,No
+2025-04-17,SPR001,Steel Spring,83,5,No,,Spring,,No
+2025-04-17,BOL001,Hex Bolt M8,172,7,No,,Spring,,No
+2025-04-17,ASM001,Spring Assembly,16,1,No,,Spring,,No
+2025-04-18,SPR001,Steel Spring,108,5,No,,Spring,,No
+2025-04-18,BOL001,Hex Bolt M8,237,7,No,,Spring,,No
+2025-04-18,ASM001,Spring Assembly,20,1,No,,Spring,,No
+2025-04-21,SPR001,Steel Spring,90,4,Yes,600.0,Spring,,No
+2025-04-21,BOL001,Hex Bolt M8,156,5,Yes,1200.0,Spring,,No
+2025-04-21,ASM001,Spring Assembly,20,1,Yes,120.0,Spring,,No
+2025-04-22,SPR001,Steel Spring,105,6,No,,Spring,,No
+2025-04-22,BOL001,Hex Bolt M8,187,7,No,,Spring,,No
+2025-04-22,ASM001,Spring Assembly,16,1,No,,Spring,,No
+2025-04-23,SPR001,Steel Spring,137,5,No,,Spring,,No
+2025-04-23,BOL001,Hex Bolt M8,183,5,No,,Spring,,No
+2025-04-23,ASM001,Spring Assembly,17,1,No,,Spring,,No
+2025-04-24,SPR001,Steel Spring,88,4,No,,Spring,,No
+2025-04-24,BOL001,Hex Bolt M8,207,8,No,,Spring,,No
+2025-04-24,ASM001,Spring Assembly,24,2,No,,Spring,,No
+2025-04-25,SPR001,Steel Spring,114,4,No,,Spring,,No
+2025-04-25,BOL001,Hex Bolt M8,189,5,No,,Spring,,No
+2025-04-25,ASM001,Spring Assembly,16,2,No,,Spring,,No
+2025-04-28,SPR001,Steel Spring,87,5,Yes,600.0,Spring,,No
+2025-04-28,BOL001,Hex Bolt M8,165,6,Yes,1200.0,Spring,,No
+2025-04-28,ASM001,Spring Assembly,20,2,Yes,120.0,Spring,,No
+2025-04-29,SPR001,Steel Spring,93,5,No,,Spring,,No
+2025-04-29,BOL001,Hex Bolt M8,166,4,No,,Spring,,No
+2025-04-29,ASM001,Spring Assembly,24,0,No,,Spring,,No
+2025-04-30,SPR001,Steel Spring,113,5,No,,Spring,,No
+2025-04-30,BOL001,Hex Bolt M8,158,4,No,,Spring,,No
+2025-04-30,ASM001,Spring Assembly,26,2,No,,Spring,,No
+2025-05-01,SPR001,Steel Spring,93,4,No,,Spring,,No
+2025-05-01,BOL001,Hex Bolt M8,208,6,No,,Spring,,No
+2025-05-01,ASM001,Spring Assembly,23,1,No,,Spring,,No
+2025-05-02,SPR001,Steel Spring,88,5,No,,Spring,,No
+2025-05-02,BOL001,Hex Bolt M8,208,7,No,,Spring,,No
+2025-05-02,ASM001,Spring Assembly,20,0,No,,Spring,,No
+2025-05-05,SPR001,Steel Spring,100,5,Yes,600.0,Spring,,No
+2025-05-05,BOL001,Hex Bolt M8,202,7,Yes,1200.0,Spring,,No
+2025-05-05,ASM001,Spring Assembly,15,2,Yes,120.0,Spring,,No
+2025-05-06,SPR001,Steel Spring,121,4,No,,Spring,,No
+2025-05-06,BOL001,Hex Bolt M8,175,6,No,,Spring,,No
+2025-05-06,ASM001,Spring Assembly,23,2,No,,Spring,,No
+2025-05-07,SPR001,Steel Spring,106,4,No,,Spring,,No
+2025-05-07,BOL001,Hex Bolt M8,202,7,No,,Spring,,No
+2025-05-07,ASM001,Spring Assembly,19,2,No,,Spring,,No
+2025-05-08,SPR001,Steel Spring,77,4,No,,Spring,,No
+2025-05-08,BOL001,Hex Bolt M8,149,6,No,,Spring,,No
+2025-05-08,ASM001,Spring Assembly,18,0,No,,Spring,,No
+2025-05-09,SPR001,Steel Spring,113,5,No,,Spring,,No
+2025-05-09,BOL001,Hex Bolt M8,228,7,No,,Spring,,No
+2025-05-09,ASM001,Spring Assembly,21,0,No,,Spring,,No
+2025-05-12,SPR001,Steel Spring,95,5,Yes,600.0,Spring,,No
+2025-05-12,BOL001,Hex Bolt M8,221,7,Yes,1200.0,Spring,,No
+2025-05-12,ASM001,Spring Assembly,22,1,Yes,120.0,Spring,,No
+2025-05-13,SPR001,Steel Spring,99,4,No,,Spring,,No
+2025-05-13,BOL001,Hex Bolt M8,178,6,No,,Spring,,No
+2025-05-13,ASM001,Spring Assembly,22,1,No,,Spring,,No
+2025-05-14,SPR001,Steel Spring,112,5,No,,Spring,,No
+2025-05-14,BOL001,Hex Bolt M8,212,6,No,,Spring,,No
+2025-05-14,ASM001,Spring Assembly,16,0,No,,Spring,,No
+2025-05-15,SPR001,Steel Spring,85,4,No,,Spring,,No
+2025-05-15,BOL001,Hex Bolt M8,155,6,No,,Spring,,No
+2025-05-15,ASM001,Spring Assembly,22,2,No,,Spring,,No
+2025-05-16,SPR001,Steel Spring,77,3,No,,Spring,,No
+2025-05-16,BOL001,Hex Bolt M8,162,5,No,,Spring,,No
+2025-05-16,ASM001,Spring Assembly,15,2,No,,Spring,,No
+2025-05-19,SPR001,Steel Spring,96,3,Yes,600.0,Spring,,No
+2025-05-19,BOL001,Hex Bolt M8,185,6,Yes,1200.0,Spring,,No
+2025-05-19,ASM001,Spring Assembly,21,1,Yes,120.0,Spring,,No
+2025-05-20,SPR001,Steel Spring,123,5,No,,Spring,,No
+2025-05-20,BOL001,Hex Bolt M8,152,5,No,,Spring,,No
+2025-05-20,ASM001,Spring Assembly,25,2,No,,Spring,,No
+2025-05-21,SPR001,Steel Spring,91,3,No,,Spring,,No
+2025-05-21,BOL001,Hex Bolt M8,168,6,No,,Spring,,No
+2025-05-21,ASM001,Spring Assembly,22,2,No,,Spring,,No
+2025-05-22,SPR001,Steel Spring,115,5,No,,Spring,,No
+2025-05-22,BOL001,Hex Bolt M8,191,7,No,,Spring,,No
+2025-05-22,ASM001,Spring Assembly,19,1,No,,Spring,,No
+2025-05-23,SPR001,Steel Spring,97,4,No,,Spring,,No
+2025-05-23,BOL001,Hex Bolt M8,167,6,No,,Spring,,No
+2025-05-23,ASM001,Spring Assembly,20,0,No,,Spring,,No
+2025-05-26,SPR001,Steel Spring,96,3,Yes,600.0,Spring,,No
+2025-05-26,BOL001,Hex Bolt M8,182,6,Yes,1200.0,Spring,,No
+2025-05-26,ASM001,Spring Assembly,22,2,Yes,120.0,Spring,,No
+2025-05-27,SPR001,Steel Spring,56,2,No,,Spring,,No
+2025-05-27,BOL001,Hex Bolt M8,166,5,No,,Spring,,No
+2025-05-27,ASM001,Spring Assembly,21,1,No,,Spring,,No
+2025-05-28,SPR001,Steel Spring,112,6,No,,Spring,,No
+2025-05-28,BOL001,Hex Bolt M8,186,6,No,,Spring,,No
+2025-05-28,ASM001,Spring Assembly,12,1,No,,Spring,,No
+2025-05-29,SPR001,Steel Spring,118,6,No,,Spring,,No
+2025-05-29,BOL001,Hex Bolt M8,178,7,No,,Spring,,No
+2025-05-29,ASM001,Spring Assembly,22,0,No,,Spring,,No
+2025-05-30,SPR001,Steel Spring,98,3,No,,Spring,,No
+2025-05-30,BOL001,Hex Bolt M8,187,6,No,,Spring,,No
+2025-05-30,ASM001,Spring Assembly,17,1,No,,Spring,,No
+2025-06-02,SPR001,Steel Spring,121,5,Yes,600.0,Summer,,No
+2025-06-02,BOL001,Hex Bolt M8,211,6,Yes,1200.0,Summer,,No
+2025-06-02,ASM001,Spring Assembly,21,0,Yes,120.0,Summer,,No
+2025-06-03,SPR001,Steel Spring,82,3,No,,Summer,,No
+2025-06-03,BOL001,Hex Bolt M8,249,8,No,,Summer,,No
+2025-06-03,ASM001,Spring Assembly,18,1,No,,Summer,,No
+2025-06-04,SPR001,Steel Spring,92,4,No,,Summer,,No
+2025-06-04,BOL001,Hex Bolt M8,183,5,No,,Summer,,No
+2025-06-04,ASM001,Spring Assembly,20,2,No,,Summer,,No
+2025-06-05,SPR001,Steel Spring,124,6,No,,Summer,,No
+2025-06-05,BOL001,Hex Bolt M8,158,5,No,,Summer,,No
+2025-06-05,ASM001,Spring Assembly,15,1,No,,Summer,,No
+2025-06-06,SPR001,Steel Spring,85,4,No,,Summer,,No
+2025-06-06,BOL001,Hex Bolt M8,192,7,No,,Summer,,No
+2025-06-06,ASM001,Spring Assembly,16,1,No,,Summer,,No
+2025-06-09,SPR001,Steel Spring,83,3,Yes,600.0,Summer,,No
+2025-06-09,BOL001,Hex Bolt M8,142,4,Yes,1200.0,Summer,,No
+2025-06-09,ASM001,Spring Assembly,21,2,Yes,120.0,Summer,,No
+2025-06-10,SPR001,Steel Spring,104,5,No,,Summer,,No
+2025-06-10,BOL001,Hex Bolt M8,228,7,No,,Summer,,No
+2025-06-10,ASM001,Spring Assembly,15,0,No,,Summer,,No
+2025-06-11,SPR001,Steel Spring,84,3,No,,Summer,,No
+2025-06-11,BOL001,Hex Bolt M8,145,5,No,,Summer,,No
+2025-06-11,ASM001,Spring Assembly,20,2,No,,Summer,,No
+2025-06-12,SPR001,Steel Spring,108,5,No,,Summer,,No
+2025-06-12,BOL001,Hex Bolt M8,265,8,No,,Summer,,No
+2025-06-12,ASM001,Spring Assembly,18,1,No,,Summer,,No
+2025-06-13,SPR001,Steel Spring,80,5,No,,Summer,,No
+2025-06-13,BOL001,Hex Bolt M8,164,6,No,,Summer,,No
+2025-06-13,ASM001,Spring Assembly,24,2,No,,Summer,,No
+2025-06-16,SPR001,Steel Spring,112,5,Yes,600.0,Summer,,No
+2025-06-16,BOL001,Hex Bolt M8,148,6,Yes,1200.0,Summer,,No
+2025-06-16,ASM001,Spring Assembly,17,1,Yes,120.0,Summer,,No
+2025-06-17,SPR001,Steel Spring,104,4,No,,Summer,,No
+2025-06-17,BOL001,Hex Bolt M8,191,7,No,,Summer,,No
+2025-06-17,ASM001,Spring Assembly,19,0,No,,Summer,,No
+2025-06-18,SPR001,Steel Spring,103,6,No,,Summer,,No
+2025-06-18,BOL001,Hex Bolt M8,212,6,No,,Summer,,No
+2025-06-18,ASM001,Spring Assembly,17,2,No,,Summer,,No
+2025-06-19,SPR001,Steel Spring,120,4,No,,Summer,,No
+2025-06-19,BOL001,Hex Bolt M8,195,7,No,,Summer,,No
+2025-06-19,ASM001,Spring Assembly,18,0,No,,Summer,,No
+2025-06-20,SPR001,Steel Spring,118,5,No,,Summer,,No
+2025-06-20,BOL001,Hex Bolt M8,197,7,No,,Summer,,No
+2025-06-20,ASM001,Spring Assembly,17,0,No,,Summer,,No
+2025-06-23,SPR001,Steel Spring,141,5,Yes,600.0,Summer,,No
+2025-06-23,BOL001,Hex Bolt M8,189,6,Yes,1200.0,Summer,,No
+2025-06-23,ASM001,Spring Assembly,18,2,Yes,120.0,Summer,,No
+2025-06-24,SPR001,Steel Spring,78,5,No,,Summer,,No
+2025-06-24,BOL001,Hex Bolt M8,216,8,No,,Summer,,No
+2025-06-24,ASM001,Spring Assembly,19,1,No,,Summer,,No
+2025-06-25,SPR001,Steel Spring,84,3,No,,Summer,,No
+2025-06-25,BOL001,Hex Bolt M8,200,7,No,,Summer,,No
+2025-06-25,ASM001,Spring Assembly,17,0,No,,Summer,,No
+2025-06-26,SPR001,Steel Spring,95,4,No,,Summer,,No
+2025-06-26,BOL001,Hex Bolt M8,228,8,No,,Summer,,No
+2025-06-26,ASM001,Spring Assembly,22,1,No,,Summer,,No
+2025-06-27,SPR001,Steel Spring,81,3,No,,Summer,,No
+2025-06-27,BOL001,Hex Bolt M8,172,6,No,,Summer,,No
+2025-06-27,ASM001,Spring Assembly,19,1,No,,Summer,,No
+2025-06-30,SPR001,Steel Spring,115,4,Yes,600.0,Summer,,No
+2025-06-30,BOL001,Hex Bolt M8,192,7,Yes,1200.0,Summer,,No
+2025-06-30,ASM001,Spring Assembly,20,1,Yes,120.0,Summer,,No
+2025-07-01,SPR001,Steel Spring,115,4,No,,Summer,,No
+2025-07-01,BOL001,Hex Bolt M8,169,5,No,,Summer,,No
+2025-07-01,ASM001,Spring Assembly,24,0,No,,Summer,,No
+2025-07-02,SPR001,Steel Spring,92,3,No,,Summer,,No
+2025-07-02,BOL001,Hex Bolt M8,281,8,No,,Summer,,No
+2025-07-02,ASM001,Spring Assembly,21,2,No,,Summer,,No
+2025-07-03,SPR001,Steel Spring,98,5,No,,Summer,,No
+2025-07-03,BOL001,Hex Bolt M8,188,7,No,,Summer,,No
+2025-07-03,ASM001,Spring Assembly,16,0,No,,Summer,,No
+2025-07-04,SPR001,Steel Spring,100,5,No,,Summer,,No
+2025-07-04,BOL001,Hex Bolt M8,194,6,No,,Summer,,No
+2025-07-04,ASM001,Spring Assembly,19,1,No,,Summer,,No
+2025-07-07,SPR001,Steel Spring,101,5,Yes,600.0,Summer,,No
+2025-07-07,BOL001,Hex Bolt M8,201,8,Yes,1200.0,Summer,,No
+2025-07-07,ASM001,Spring Assembly,15,0,Yes,120.0,Summer,,No
+2025-07-08,SPR001,Steel Spring,72,3,No,,Summer,,No
+2025-07-08,BOL001,Hex Bolt M8,212,6,No,,Summer,,No
+2025-07-08,ASM001,Spring Assembly,22,0,No,,Summer,,No
+2025-07-09,SPR001,Steel Spring,94,3,No,,Summer,,No
+2025-07-09,BOL001,Hex Bolt M8,156,5,No,,Summer,,No
+2025-07-09,ASM001,Spring Assembly,20,2,No,,Summer,,No
+2025-07-10,SPR001,Steel Spring,91,5,No,,Summer,,No
+2025-07-10,BOL001,Hex Bolt M8,206,6,No,,Summer,,No
+2025-07-10,ASM001,Spring Assembly,19,2,No,,Summer,,No
+2025-07-11,SPR001,Steel Spring,106,4,No,,Summer,,No
+2025-07-11,BOL001,Hex Bolt M8,95,4,No,,Summer,,No
+2025-07-11,ASM001,Spring Assembly,14,0,No,,Summer,,No
+2025-07-14,SPR001,Steel Spring,111,6,Yes,600.0,Summer,,No
+2025-07-14,BOL001,Hex Bolt M8,229,6,Yes,1200.0,Summer,,No
+2025-07-14,ASM001,Spring Assembly,22,2,Yes,120.0,Summer,,No
+2025-07-15,SPR001,Steel Spring,111,4,No,,Summer,,No
+2025-07-15,BOL001,Hex Bolt M8,192,5,No,,Summer,,No
+2025-07-15,ASM001,Spring Assembly,23,2,No,,Summer,,No
+2025-07-16,SPR001,Steel Spring,104,6,No,,Summer,,No
+2025-07-16,BOL001,Hex Bolt M8,174,7,No,,Summer,,No
+2025-07-16,ASM001,Spring Assembly,20,2,No,,Summer,,No
+2025-07-17,SPR001,Steel Spring,135,5,No,,Summer,,No
+2025-07-17,BOL001,Hex Bolt M8,197,6,No,,Summer,,No
+2025-07-17,ASM001,Spring Assembly,19,1,No,,Summer,,No
+2025-07-18,SPR001,Steel Spring,110,4,No,,Summer,,No
+2025-07-18,BOL001,Hex Bolt M8,162,6,No,,Summer,,No
+2025-07-18,ASM001,Spring Assembly,19,0,No,,Summer,,No
+2025-07-21,SPR001,Steel Spring,94,5,Yes,600.0,Summer,,No
+2025-07-21,BOL001,Hex Bolt M8,229,6,Yes,1200.0,Summer,,No
+2025-07-21,ASM001,Spring Assembly,18,2,Yes,120.0,Summer,,No
+2025-07-22,SPR001,Steel Spring,94,4,No,,Summer,,No
+2025-07-22,BOL001,Hex Bolt M8,209,8,No,,Summer,,No
+2025-07-22,ASM001,Spring Assembly,23,0,No,,Summer,,No
+2025-07-23,SPR001,Steel Spring,96,5,No,,Summer,,No
+2025-07-23,BOL001,Hex Bolt M8,189,7,No,,Summer,,No
+2025-07-23,ASM001,Spring Assembly,20,2,No,,Summer,,No
+2025-07-24,SPR001,Steel Spring,91,4,No,,Summer,,No
+2025-07-24,BOL001,Hex Bolt M8,227,8,No,,Summer,,No
+2025-07-24,ASM001,Spring Assembly,24,2,No,,Summer,,No
+2025-07-25,SPR001,Steel Spring,69,3,No,,Summer,,No
+2025-07-25,BOL001,Hex Bolt M8,167,7,No,,Summer,,No
+2025-07-25,ASM001,Spring Assembly,17,0,No,,Summer,,No
+2025-07-28,SPR001,Steel Spring,90,5,Yes,600.0,Summer,,No
+2025-07-28,BOL001,Hex Bolt M8,219,7,Yes,1200.0,Summer,,No
+2025-07-28,ASM001,Spring Assembly,19,1,Yes,120.0,Summer,,No
+2025-07-29,SPR001,Steel Spring,112,4,No,,Summer,,No
+2025-07-29,BOL001,Hex Bolt M8,184,6,No,,Summer,,No
+2025-07-29,ASM001,Spring Assembly,23,0,No,,Summer,,No
+2025-07-30,SPR001,Steel Spring,115,6,No,,Summer,,No
+2025-07-30,BOL001,Hex Bolt M8,191,7,No,,Summer,,No
+2025-07-30,ASM001,Spring Assembly,21,1,No,,Summer,,No
+2025-07-31,SPR001,Steel Spring,114,5,No,,Summer,,No
+2025-07-31,BOL001,Hex Bolt M8,175,6,No,,Summer,,No
+2025-07-31,ASM001,Spring Assembly,18,0,No,,Summer,,No
+2025-08-01,SPR001,Steel Spring,68,2,No,,Summer,,No
+2025-08-01,BOL001,Hex Bolt M8,152,4,No,,Summer,,No
+2025-08-01,ASM001,Spring Assembly,16,0,No,,Summer,,No
+2025-08-04,SPR001,Steel Spring,133,7,Yes,600.0,Summer,,No
+2025-08-04,BOL001,Hex Bolt M8,172,7,Yes,1200.0,Summer,,No
+2025-08-04,ASM001,Spring Assembly,18,2,Yes,120.0,Summer,,No
+2025-08-05,SPR001,Steel Spring,93,5,No,,Summer,,No
+2025-08-05,BOL001,Hex Bolt M8,171,7,No,,Summer,,No
+2025-08-05,ASM001,Spring Assembly,20,2,No,,Summer,,No
+2025-08-06,SPR001,Steel Spring,93,3,No,,Summer,,No
+2025-08-06,BOL001,Hex Bolt M8,240,8,No,,Summer,,No
+2025-08-06,ASM001,Spring Assembly,20,1,No,,Summer,,No
+2025-08-07,SPR001,Steel Spring,72,4,No,,Summer,,No
+2025-08-07,BOL001,Hex Bolt M8,218,6,No,,Summer,,No
+2025-08-07,ASM001,Spring Assembly,16,0,No,,Summer,,No
+2025-08-08,SPR001,Steel Spring,80,4,No,,Summer,,No
+2025-08-08,BOL001,Hex Bolt M8,229,8,No,,Summer,,No
+2025-08-08,ASM001,Spring Assembly,25,0,No,,Summer,,No
+2025-08-11,SPR001,Steel Spring,102,5,Yes,600.0,Summer,,No
+2025-08-11,BOL001,Hex Bolt M8,209,7,Yes,1200.0,Summer,,No
+2025-08-11,ASM001,Spring Assembly,19,0,Yes,120.0,Summer,,No
+2025-08-12,SPR001,Steel Spring,132,7,No,,Summer,,No
+2025-08-12,BOL001,Hex Bolt M8,231,6,No,,Summer,,No
+2025-08-12,ASM001,Spring Assembly,15,0,No,,Summer,,No
+2025-08-13,SPR001,Steel Spring,77,4,No,,Summer,,No
+2025-08-13,BOL001,Hex Bolt M8,218,8,No,,Summer,,No
+2025-08-13,ASM001,Spring Assembly,22,0,No,,Summer,,No
+2025-08-14,SPR001,Steel Spring,82,4,No,,Summer,,No
+2025-08-14,BOL001,Hex Bolt M8,291,10,No,,Summer,,No
+2025-08-14,ASM001,Spring Assembly,22,0,No,,Summer,,No
+2025-08-15,SPR001,Steel Spring,94,4,No,,Summer,,No
+2025-08-15,BOL001,Hex Bolt M8,205,7,No,,Summer,,No
+2025-08-15,ASM001,Spring Assembly,20,2,No,,Summer,,No
+2025-08-18,SPR001,Steel Spring,72,2,Yes,600.0,Summer,,No
+2025-08-18,BOL001,Hex Bolt M8,228,8,Yes,1200.0,Summer,,No
+2025-08-18,ASM001,Spring Assembly,23,2,Yes,120.0,Summer,,No
+2025-08-19,SPR001,Steel Spring,80,3,No,,Summer,,No
+2025-08-19,BOL001,Hex Bolt M8,189,6,No,,Summer,,No
+2025-08-19,ASM001,Spring Assembly,20,2,No,,Summer,,No
+2025-08-20,SPR001,Steel Spring,78,5,No,,Summer,,No
+2025-08-20,BOL001,Hex Bolt M8,180,6,No,,Summer,,No
+2025-08-20,ASM001,Spring Assembly,16,2,No,,Summer,,No
+2025-08-21,SPR001,Steel Spring,129,7,No,,Summer,,No
+2025-08-21,BOL001,Hex Bolt M8,191,5,No,,Summer,,No
+2025-08-21,ASM001,Spring Assembly,20,0,No,,Summer,,No
+2025-08-22,SPR001,Steel Spring,99,4,No,,Summer,,No
+2025-08-22,BOL001,Hex Bolt M8,156,5,No,,Summer,,No
+2025-08-22,ASM001,Spring Assembly,18,1,No,,Summer,,No
+2025-08-25,SPR001,Steel Spring,112,6,Yes,600.0,Summer,,No
+2025-08-25,BOL001,Hex Bolt M8,211,6,Yes,1200.0,Summer,,No
+2025-08-25,ASM001,Spring Assembly,25,2,Yes,120.0,Summer,,No
+2025-08-26,SPR001,Steel Spring,92,5,No,,Summer,,No
+2025-08-26,BOL001,Hex Bolt M8,216,6,No,,Summer,,No
+2025-08-26,ASM001,Spring Assembly,22,0,No,,Summer,,No
+2025-08-27,SPR001,Steel Spring,97,4,No,,Summer,,No
+2025-08-27,BOL001,Hex Bolt M8,269,9,No,,Summer,,No
+2025-08-27,ASM001,Spring Assembly,20,1,No,,Summer,,No
+2025-08-28,SPR001,Steel Spring,87,3,No,,Summer,,No
+2025-08-28,BOL001,Hex Bolt M8,210,6,No,,Summer,,No
+2025-08-28,ASM001,Spring Assembly,18,1,No,,Summer,,No
+2025-08-29,SPR001,Steel Spring,97,4,No,,Summer,,No
+2025-08-29,BOL001,Hex Bolt M8,226,7,No,,Summer,,No
+2025-08-29,ASM001,Spring Assembly,24,0,No,,Summer,,No
+2025-09-01,SPR001,Steel Spring,102,5,Yes,600.0,Autumn,,No
+2025-09-01,BOL001,Hex Bolt M8,178,6,Yes,1200.0,Autumn,,No
+2025-09-01,ASM001,Spring Assembly,18,0,Yes,120.0,Autumn,,No
+2025-09-02,SPR001,Steel Spring,96,3,No,,Autumn,,No
+2025-09-02,BOL001,Hex Bolt M8,189,6,No,,Autumn,,No
+2025-09-02,ASM001,Spring Assembly,17,0,No,,Autumn,,No
+2025-09-03,SPR001,Steel Spring,69,3,No,,Autumn,,No
+2025-09-03,BOL001,Hex Bolt M8,223,8,No,,Autumn,,No
+2025-09-03,ASM001,Spring Assembly,16,1,No,,Autumn,,No
+2025-09-04,SPR001,Steel Spring,90,3,No,,Autumn,,No
+2025-09-04,BOL001,Hex Bolt M8,212,8,No,,Autumn,,No
+2025-09-04,ASM001,Spring Assembly,21,2,No,,Autumn,,No
+2025-09-05,SPR001,Steel Spring,87,4,No,,Autumn,,No
+2025-09-05,BOL001,Hex Bolt M8,141,4,No,,Autumn,,No
+2025-09-05,ASM001,Spring Assembly,19,2,No,,Autumn,,No
+2025-09-08,SPR001,Steel Spring,106,4,Yes,600.0,Autumn,,No
+2025-09-08,BOL001,Hex Bolt M8,155,5,Yes,1200.0,Autumn,,No
+2025-09-08,ASM001,Spring Assembly,22,0,Yes,120.0,Autumn,,No
+2025-09-09,SPR001,Steel Spring,98,5,No,,Autumn,,No
+2025-09-09,BOL001,Hex Bolt M8,229,7,No,,Autumn,,No
+2025-09-09,ASM001,Spring Assembly,26,0,No,,Autumn,,No
+2025-09-10,SPR001,Steel Spring,90,5,No,,Autumn,,No
+2025-09-10,BOL001,Hex Bolt M8,207,7,No,,Autumn,,No
+2025-09-10,ASM001,Spring Assembly,19,1,No,,Autumn,,No
+2025-09-11,SPR001,Steel Spring,84,3,No,,Autumn,,No
+2025-09-11,BOL001,Hex Bolt M8,132,5,No,,Autumn,,No
+2025-09-11,ASM001,Spring Assembly,15,1,No,,Autumn,,No
+2025-09-12,SPR001,Steel Spring,114,6,No,,Autumn,,No
+2025-09-12,BOL001,Hex Bolt M8,150,4,No,,Autumn,,No
+2025-09-12,ASM001,Spring Assembly,24,0,No,,Autumn,,No
+2025-09-15,SPR001,Steel Spring,97,3,Yes,600.0,Autumn,,No
+2025-09-15,BOL001,Hex Bolt M8,208,7,Yes,1200.0,Autumn,,No
+2025-09-15,ASM001,Spring Assembly,18,1,Yes,120.0,Autumn,,No
+2025-09-16,SPR001,Steel Spring,115,4,No,,Autumn,,No
+2025-09-16,BOL001,Hex Bolt M8,207,6,No,,Autumn,,No
+2025-09-16,ASM001,Spring Assembly,19,2,No,,Autumn,,No
+2025-09-17,SPR001,Steel Spring,114,6,No,,Autumn,,No
+2025-09-17,BOL001,Hex Bolt M8,231,6,No,,Autumn,,No
+2025-09-17,ASM001,Spring Assembly,15,2,No,,Autumn,,No
+2025-09-18,SPR001,Steel Spring,84,5,No,,Autumn,,No
+2025-09-18,BOL001,Hex Bolt M8,188,6,No,,Autumn,,No
+2025-09-18,ASM001,Spring Assembly,20,1,No,,Autumn,,No
+2025-09-19,SPR001,Steel Spring,127,7,No,,Autumn,,No
+2025-09-19,BOL001,Hex Bolt M8,230,6,No,,Autumn,,No
+2025-09-19,ASM001,Spring Assembly,19,1,No,,Autumn,,No
+2025-09-22,SPR001,Steel Spring,77,5,Yes,600.0,Autumn,,No
+2025-09-22,BOL001,Hex Bolt M8,233,6,Yes,1200.0,Autumn,,No
+2025-09-22,ASM001,Spring Assembly,18,2,Yes,120.0,Autumn,,No
+2025-09-23,SPR001,Steel Spring,80,4,No,,Autumn,,No
+2025-09-23,BOL001,Hex Bolt M8,179,7,No,,Autumn,,No
+2025-09-23,ASM001,Spring Assembly,21,0,No,,Autumn,,No
+2025-09-24,SPR001,Steel Spring,101,4,No,,Autumn,,No
+2025-09-24,BOL001,Hex Bolt M8,188,7,No,,Autumn,,No
+2025-09-24,ASM001,Spring Assembly,22,0,No,,Autumn,,No
+2025-09-25,SPR001,Steel Spring,93,3,No,,Autumn,,No
+2025-09-25,BOL001,Hex Bolt M8,142,4,No,,Autumn,,No
+2025-09-25,ASM001,Spring Assembly,17,2,No,,Autumn,,No
+2025-09-26,SPR001,Steel Spring,110,6,No,,Autumn,,No
+2025-09-26,BOL001,Hex Bolt M8,236,7,No,,Autumn,,No
+2025-09-26,ASM001,Spring Assembly,21,1,No,,Autumn,,No
+2025-09-29,SPR001,Steel Spring,129,6,Yes,600.0,Autumn,,No
+2025-09-29,BOL001,Hex Bolt M8,196,7,Yes,1200.0,Autumn,,No
+2025-09-29,ASM001,Spring Assembly,21,2,Yes,120.0,Autumn,,No
+2025-09-30,SPR001,Steel Spring,103,5,No,,Autumn,,No
+2025-09-30,BOL001,Hex Bolt M8,158,4,No,,Autumn,,No
+2025-09-30,ASM001,Spring Assembly,17,0,No,,Autumn,,No
+2025-10-01,SPR001,Steel Spring,96,3,No,,Autumn,,No
+2025-10-01,BOL001,Hex Bolt M8,162,5,No,,Autumn,,No
+2025-10-01,ASM001,Spring Assembly,15,1,No,,Autumn,,No
+2025-10-02,SPR001,Steel Spring,109,6,No,,Autumn,,No
+2025-10-02,BOL001,Hex Bolt M8,160,4,No,,Autumn,,No
+2025-10-02,ASM001,Spring Assembly,22,1,No,,Autumn,,No
+2025-10-03,SPR001,Steel Spring,95,5,No,,Autumn,,No
+2025-10-03,BOL001,Hex Bolt M8,285,10,No,,Autumn,,No
+2025-10-03,ASM001,Spring Assembly,17,2,No,,Autumn,,No
+2025-10-06,SPR001,Steel Spring,94,5,Yes,600.0,Autumn,,No
+2025-10-06,BOL001,Hex Bolt M8,273,9,Yes,1200.0,Autumn,,No
+2025-10-06,ASM001,Spring Assembly,16,1,Yes,120.0,Autumn,,No
+2025-10-07,SPR001,Steel Spring,105,5,No,,Autumn,,No
+2025-10-07,BOL001,Hex Bolt M8,189,6,No,,Autumn,,No
+2025-10-07,ASM001,Spring Assembly,18,1,No,,Autumn,,No
+2025-10-08,SPR001,Steel Spring,93,3,No,,Autumn,,No
+2025-10-08,BOL001,Hex Bolt M8,141,5,No,,Autumn,,No
+2025-10-08,ASM001,Spring Assembly,22,1,No,,Autumn,,No
+2025-10-09,SPR001,Steel Spring,102,4,No,,Autumn,,No
+2025-10-09,BOL001,Hex Bolt M8,222,7,No,,Autumn,,No
+2025-10-09,ASM001,Spring Assembly,21,1,No,,Autumn,,No
+2025-10-10,SPR001,Steel Spring,106,4,No,,Autumn,,No
+2025-10-10,BOL001,Hex Bolt M8,197,6,No,,Autumn,,No
+2025-10-10,ASM001,Spring Assembly,23,1,No,,Autumn,,No
+2025-10-13,SPR001,Steel Spring,121,5,Yes,600.0,Autumn,,No
+2025-10-13,BOL001,Hex Bolt M8,129,3,Yes,1200.0,Autumn,,No
+2025-10-13,ASM001,Spring Assembly,26,0,Yes,120.0,Autumn,,No
+2025-10-14,SPR001,Steel Spring,103,6,No,,Autumn,,No
+2025-10-14,BOL001,Hex Bolt M8,196,6,No,,Autumn,,No
+2025-10-14,ASM001,Spring Assembly,21,0,No,,Autumn,,No
+2025-10-15,SPR001,Steel Spring,107,5,No,,Autumn,,No
+2025-10-15,BOL001,Hex Bolt M8,262,9,No,,Autumn,,No
+2025-10-15,ASM001,Spring Assembly,21,1,No,,Autumn,,No
+2025-10-16,SPR001,Steel Spring,102,5,No,,Autumn,,No
+2025-10-16,BOL001,Hex Bolt M8,224,6,No,,Autumn,,No
+2025-10-16,ASM001,Spring Assembly,20,2,No,,Autumn,,No
+2025-10-17,SPR001,Steel Spring,112,5,No,,Autumn,,No
+2025-10-17,BOL001,Hex Bolt M8,205,8,No,,Autumn,,No
+2025-10-17,ASM001,Spring Assembly,20,2,No,,Autumn,,No
+2025-10-20,SPR001,Steel Spring,119,6,Yes,600.0,Autumn,,No
+2025-10-20,BOL001,Hex Bolt M8,223,6,Yes,1200.0,Autumn,,No
+2025-10-20,ASM001,Spring Assembly,17,2,Yes,120.0,Autumn,,No
+2025-10-21,SPR001,Steel Spring,80,3,No,,Autumn,,No
+2025-10-21,BOL001,Hex Bolt M8,193,6,No,,Autumn,,No
+2025-10-21,ASM001,Spring Assembly,16,0,No,,Autumn,,No
+2025-10-22,SPR001,Steel Spring,88,4,No,,Autumn,,No
+2025-10-22,BOL001,Hex Bolt M8,148,6,No,,Autumn,,No
+2025-10-22,ASM001,Spring Assembly,21,1,No,,Autumn,,No
+2025-10-23,SPR001,Steel Spring,89,3,No,,Autumn,,No
+2025-10-23,BOL001,Hex Bolt M8,210,6,No,,Autumn,,No
+2025-10-23,ASM001,Spring Assembly,18,0,No,,Autumn,,No
+2025-10-24,SPR001,Steel Spring,98,4,No,,Autumn,,No
+2025-10-24,BOL001,Hex Bolt M8,223,7,No,,Autumn,,No
+2025-10-24,ASM001,Spring Assembly,21,0,No,,Autumn,,No
+2025-10-27,SPR001,Steel Spring,109,6,Yes,600.0,Autumn,,No
+2025-10-27,BOL001,Hex Bolt M8,183,6,Yes,1200.0,Autumn,,No
+2025-10-27,ASM001,Spring Assembly,19,2,Yes,120.0,Autumn,,No
+2025-10-28,SPR001,Steel Spring,86,3,No,,Autumn,,No
+2025-10-28,BOL001,Hex Bolt M8,148,4,No,,Autumn,,No
+2025-10-28,ASM001,Spring Assembly,14,1,No,,Autumn,,No
+2025-10-29,SPR001,Steel Spring,91,3,No,,Autumn,,No
+2025-10-29,BOL001,Hex Bolt M8,184,6,No,,Autumn,,No
+2025-10-29,ASM001,Spring Assembly,23,1,No,,Autumn,,No
+2025-10-30,SPR001,Steel Spring,128,5,No,,Autumn,,No
+2025-10-30,BOL001,Hex Bolt M8,185,7,No,,Autumn,,No
+2025-10-30,ASM001,Spring Assembly,20,2,No,,Autumn,,No
+2025-10-31,SPR001,Steel Spring,109,6,No,,Autumn,,No
+2025-10-31,BOL001,Hex Bolt M8,198,7,No,,Autumn,,No
+2025-10-31,ASM001,Spring Assembly,18,2,No,,Autumn,,No
+2025-11-03,SPR001,Steel Spring,82,5,Yes,600.0,Autumn,,No
+2025-11-03,BOL001,Hex Bolt M8,198,6,Yes,1200.0,Autumn,,No
+2025-11-03,ASM001,Spring Assembly,24,0,Yes,120.0,Autumn,,No
+2025-11-04,SPR001,Steel Spring,92,3,No,,Autumn,,No
+2025-11-04,BOL001,Hex Bolt M8,214,7,No,,Autumn,,No
+2025-11-04,ASM001,Spring Assembly,19,2,No,,Autumn,,No
+2025-11-05,SPR001,Steel Spring,84,3,No,,Autumn,,No
+2025-11-05,BOL001,Hex Bolt M8,157,6,No,,Autumn,,No
+2025-11-05,ASM001,Spring Assembly,23,2,No,,Autumn,,No
+2025-11-06,SPR001,Steel Spring,91,5,No,,Autumn,,No
+2025-11-06,BOL001,Hex Bolt M8,226,7,No,,Autumn,,No
+2025-11-06,ASM001,Spring Assembly,20,1,No,,Autumn,,No
+2025-11-07,SPR001,Steel Spring,128,7,No,,Autumn,,No
+2025-11-07,BOL001,Hex Bolt M8,214,8,No,,Autumn,,No
+2025-11-07,ASM001,Spring Assembly,21,2,No,,Autumn,,No
+2025-11-10,SPR001,Steel Spring,98,4,Yes,600.0,Autumn,,No
+2025-11-10,BOL001,Hex Bolt M8,216,8,Yes,1200.0,Autumn,,No
+2025-11-10,ASM001,Spring Assembly,20,1,Yes,120.0,Autumn,,No
+2025-11-11,SPR001,Steel Spring,68,2,No,,Autumn,,No
+2025-11-11,BOL001,Hex Bolt M8,241,8,No,,Autumn,,No
+2025-11-11,ASM001,Spring Assembly,23,1,No,,Autumn,,No
+2025-11-12,SPR001,Steel Spring,85,5,No,,Autumn,,No
+2025-11-12,BOL001,Hex Bolt M8,224,7,No,,Autumn,,No
+2025-11-12,ASM001,Spring Assembly,17,0,No,,Autumn,,No
+2025-11-13,SPR001,Steel Spring,97,5,No,,Autumn,,No
+2025-11-13,BOL001,Hex Bolt M8,197,5,No,,Autumn,,No
+2025-11-13,ASM001,Spring Assembly,22,2,No,,Autumn,,No
+2025-11-14,SPR001,Steel Spring,121,5,No,,Autumn,,No
+2025-11-14,BOL001,Hex Bolt M8,189,6,No,,Autumn,,No
+2025-11-14,ASM001,Spring Assembly,21,0,No,,Autumn,,No
+2025-11-17,SPR001,Steel Spring,120,4,Yes,600.0,Autumn,,No
+2025-11-17,BOL001,Hex Bolt M8,181,6,Yes,1200.0,Autumn,,No
+2025-11-17,ASM001,Spring Assembly,15,2,Yes,120.0,Autumn,,No
+2025-11-18,SPR001,Steel Spring,115,6,No,,Autumn,,No
+2025-11-18,BOL001,Hex Bolt M8,136,6,No,,Autumn,,No
+2025-11-18,ASM001,Spring Assembly,13,2,No,,Autumn,,No
+2025-11-19,SPR001,Steel Spring,91,3,No,,Autumn,,No
+2025-11-19,BOL001,Hex Bolt M8,190,7,No,,Autumn,,No
+2025-11-19,ASM001,Spring Assembly,21,1,No,,Autumn,,No
+2025-11-20,SPR001,Steel Spring,101,6,No,,Autumn,,No
+2025-11-20,BOL001,Hex Bolt M8,160,4,No,,Autumn,,No
+2025-11-20,ASM001,Spring Assembly,22,1,No,,Autumn,,No
+2025-11-21,SPR001,Steel Spring,98,5,No,,Autumn,,No
+2025-11-21,BOL001,Hex Bolt M8,238,8,No,,Autumn,,No
+2025-11-21,ASM001,Spring Assembly,25,0,No,,Autumn,,No
+2025-11-24,SPR001,Steel Spring,104,4,Yes,600.0,Autumn,,No
+2025-11-24,BOL001,Hex Bolt M8,219,6,Yes,1200.0,Autumn,,No
+2025-11-24,ASM001,Spring Assembly,21,0,Yes,120.0,Autumn,,No
+2025-11-25,SPR001,Steel Spring,107,4,No,,Autumn,,No
+2025-11-25,BOL001,Hex Bolt M8,209,7,No,,Autumn,,No
+2025-11-25,ASM001,Spring Assembly,20,0,No,,Autumn,,No
+2025-11-26,SPR001,Steel Spring,87,5,No,,Autumn,,No
+2025-11-26,BOL001,Hex Bolt M8,175,7,No,,Autumn,,No
+2025-11-26,ASM001,Spring Assembly,18,0,No,,Autumn,,No
+2025-11-27,SPR001,Steel Spring,88,5,No,,Autumn,,No
+2025-11-27,BOL001,Hex Bolt M8,225,6,No,,Autumn,,No
+2025-11-27,ASM001,Spring Assembly,23,2,No,,Autumn,,No
+2025-11-28,SPR001,Steel Spring,66,2,No,,Autumn,,No
+2025-11-28,BOL001,Hex Bolt M8,157,5,No,,Autumn,,No
+2025-11-28,ASM001,Spring Assembly,20,0,No,,Autumn,,No
+2025-12-01,SPR001,Steel Spring,99,5,Yes,600.0,Winter,,No
+2025-12-01,BOL001,Hex Bolt M8,192,5,Yes,1200.0,Winter,,No
+2025-12-01,ASM001,Spring Assembly,20,1,Yes,120.0,Winter,,No
+2025-12-02,SPR001,Steel Spring,111,4,No,,Winter,,No
+2025-12-02,BOL001,Hex Bolt M8,189,7,No,,Winter,,No
+2025-12-02,ASM001,Spring Assembly,17,2,No,,Winter,,No
+2025-12-03,SPR001,Steel Spring,97,5,No,,Winter,,No
+2025-12-03,BOL001,Hex Bolt M8,215,6,No,,Winter,,No
+2025-12-03,ASM001,Spring Assembly,17,1,No,,Winter,,No
+2025-12-04,SPR001,Steel Spring,119,5,No,,Winter,,No
+2025-12-04,BOL001,Hex Bolt M8,127,5,No,,Winter,,No
+2025-12-04,ASM001,Spring Assembly,17,1,No,,Winter,,No
+2025-12-05,SPR001,Steel Spring,111,4,No,,Winter,,No
+2025-12-05,BOL001,Hex Bolt M8,195,6,No,,Winter,,No
+2025-12-05,ASM001,Spring Assembly,23,2,No,,Winter,,No
+2025-12-08,SPR001,Steel Spring,102,4,Yes,600.0,Winter,,No
+2025-12-08,BOL001,Hex Bolt M8,213,8,Yes,1200.0,Winter,,No
+2025-12-08,ASM001,Spring Assembly,20,1,Yes,120.0,Winter,,No
+2025-12-09,SPR001,Steel Spring,120,6,No,,Winter,,No
+2025-12-09,BOL001,Hex Bolt M8,236,7,No,,Winter,,No
+2025-12-09,ASM001,Spring Assembly,18,2,No,,Winter,,No
+2025-12-10,SPR001,Steel Spring,113,5,No,,Winter,,No
+2025-12-10,BOL001,Hex Bolt M8,210,7,No,,Winter,,No
+2025-12-10,ASM001,Spring Assembly,17,0,No,,Winter,,No
+2025-12-11,SPR001,Steel Spring,124,5,No,,Winter,,No
+2025-12-11,BOL001,Hex Bolt M8,151,4,No,,Winter,,No
+2025-12-11,ASM001,Spring Assembly,16,2,No,,Winter,,No
+2025-12-12,SPR001,Steel Spring,124,5,No,,Winter,,No
+2025-12-12,BOL001,Hex Bolt M8,196,7,No,,Winter,,No
+2025-12-12,ASM001,Spring Assembly,13,1,No,,Winter,,No
+2025-12-15,SPR001,Steel Spring,143,6,Yes,600.0,Winter,,No
+2025-12-15,BOL001,Hex Bolt M8,196,6,Yes,1200.0,Winter,,No
+2025-12-15,ASM001,Spring Assembly,19,0,Yes,120.0,Winter,,No
+2025-12-16,SPR001,Steel Spring,82,4,No,,Winter,,No
+2025-12-16,BOL001,Hex Bolt M8,208,8,No,,Winter,,No
+2025-12-16,ASM001,Spring Assembly,18,1,No,,Winter,,No
+2025-12-17,SPR001,Steel Spring,111,5,No,,Winter,,No
+2025-12-17,BOL001,Hex Bolt M8,237,8,No,,Winter,,No
+2025-12-17,ASM001,Spring Assembly,18,2,No,,Winter,,No
+2025-12-18,SPR001,Steel Spring,89,4,No,,Winter,,No
+2025-12-18,BOL001,Hex Bolt M8,206,6,No,,Winter,,No
+2025-12-18,ASM001,Spring Assembly,19,2,No,,Winter,,No
+2025-12-19,SPR001,Steel Spring,87,4,No,,Winter,,No
+2025-12-19,BOL001,Hex Bolt M8,210,8,No,,Winter,,No
+2025-12-19,ASM001,Spring Assembly,21,2,No,,Winter,,No
+2025-12-22,SPR001,Steel Spring,90,5,Yes,600.0,Winter,,No
+2025-12-22,BOL001,Hex Bolt M8,182,6,Yes,1200.0,Winter,,No
+2025-12-22,ASM001,Spring Assembly,25,2,Yes,120.0,Winter,,No
+2025-12-23,SPR001,Steel Spring,114,4,No,,Winter,,No
+2025-12-23,BOL001,Hex Bolt M8,252,7,No,,Winter,,No
+2025-12-23,ASM001,Spring Assembly,16,1,No,,Winter,,No
+2025-12-24,SPR001,Steel Spring,79,3,No,,Winter,,No
+2025-12-24,BOL001,Hex Bolt M8,173,5,No,,Winter,,No
+2025-12-24,ASM001,Spring Assembly,22,2,No,,Winter,,No
+2025-12-25,SPR001,Steel Spring,110,5,No,,Winter,,No
+2025-12-25,BOL001,Hex Bolt M8,244,9,No,,Winter,,No
+2025-12-25,ASM001,Spring Assembly,17,1,No,,Winter,,No
+2025-12-26,SPR001,Steel Spring,136,7,No,,Winter,,No
+2025-12-26,BOL001,Hex Bolt M8,272,9,No,,Winter,,No
+2025-12-26,ASM001,Spring Assembly,22,2,No,,Winter,,No
+2025-12-29,SPR001,Steel Spring,105,6,Yes,600.0,Winter,,No
+2025-12-29,BOL001,Hex Bolt M8,199,5,Yes,1200.0,Winter,,No
+2025-12-29,ASM001,Spring Assembly,18,0,Yes,120.0,Winter,,No
+2025-12-30,SPR001,Steel Spring,136,6,No,,Winter,,No
+2025-12-30,BOL001,Hex Bolt M8,171,5,No,,Winter,,No
+2025-12-30,ASM001,Spring Assembly,17,0,No,,Winter,,No
+2025-12-31,SPR001,Steel Spring,75,3,No,,Winter,,No
+2025-12-31,BOL001,Hex Bolt M8,174,7,No,,Winter,,No
+2025-12-31,ASM001,Spring Assembly,14,0,No,,Winter,,No
+2026-01-01,SPR001,Steel Spring,73,4,No,,Winter,,No
+2026-01-01,BOL001,Hex Bolt M8,210,6,No,,Winter,,No
+2026-01-01,ASM001,Spring Assembly,18,0,No,,Winter,,No
+2026-01-02,SPR001,Steel Spring,92,4,No,,Winter,,No
+2026-01-02,BOL001,Hex Bolt M8,219,7,No,,Winter,,No
+2026-01-02,ASM001,Spring Assembly,21,0,No,,Winter,,No
+2026-01-05,SPR001,Steel Spring,94,3,Yes,600.0,Winter,,No
+2026-01-05,BOL001,Hex Bolt M8,157,5,Yes,1200.0,Winter,,No
+2026-01-05,ASM001,Spring Assembly,21,1,Yes,120.0,Winter,,No
+2026-01-06,SPR001,Steel Spring,111,6,No,,Winter,,No
+2026-01-06,BOL001,Hex Bolt M8,190,7,No,,Winter,,No
+2026-01-06,ASM001,Spring Assembly,23,0,No,,Winter,,No
+2026-01-07,SPR001,Steel Spring,110,6,No,,Winter,,No
+2026-01-07,BOL001,Hex Bolt M8,275,9,No,,Winter,,No
+2026-01-07,ASM001,Spring Assembly,26,1,No,,Winter,,No
+2026-01-08,SPR001,Steel Spring,109,4,No,,Winter,,No
+2026-01-08,BOL001,Hex Bolt M8,169,7,No,,Winter,,No
+2026-01-08,ASM001,Spring Assembly,23,2,No,,Winter,,No
+2026-01-09,SPR001,Steel Spring,122,5,No,,Winter,,No
+2026-01-09,BOL001,Hex Bolt M8,200,7,No,,Winter,,No
+2026-01-09,ASM001,Spring Assembly,17,2,No,,Winter,,No
+2026-01-12,SPR001,Steel Spring,85,5,Yes,600.0,Winter,,No
+2026-01-12,BOL001,Hex Bolt M8,190,6,Yes,1200.0,Winter,,No
+2026-01-12,ASM001,Spring Assembly,25,1,Yes,120.0,Winter,,No
+2026-01-13,SPR001,Steel Spring,101,4,No,,Winter,,No
+2026-01-13,BOL001,Hex Bolt M8,212,7,No,,Winter,,No
+2026-01-13,ASM001,Spring Assembly,21,2,No,,Winter,,No
+2026-01-14,SPR001,Steel Spring,94,4,No,,Winter,,No
+2026-01-14,BOL001,Hex Bolt M8,216,8,No,,Winter,,No
+2026-01-14,ASM001,Spring Assembly,19,1,No,,Winter,,No
+2026-01-15,SPR001,Steel Spring,94,4,No,,Winter,,No
+2026-01-15,BOL001,Hex Bolt M8,219,8,No,,Winter,,No
+2026-01-15,ASM001,Spring Assembly,17,2,No,,Winter,,No
+2026-01-16,SPR001,Steel Spring,99,4,No,,Winter,,No
+2026-01-16,BOL001,Hex Bolt M8,220,7,No,,Winter,,No
+2026-01-16,ASM001,Spring Assembly,17,1,No,,Winter,,No
+2026-01-19,SPR001,Steel Spring,73,3,Yes,600.0,Winter,,No
+2026-01-19,BOL001,Hex Bolt M8,207,8,Yes,1200.0,Winter,,No
+2026-01-19,ASM001,Spring Assembly,19,2,Yes,120.0,Winter,,No
+2026-01-20,SPR001,Steel Spring,117,4,No,,Winter,,No
+2026-01-20,BOL001,Hex Bolt M8,172,7,No,,Winter,,No
+2026-01-20,ASM001,Spring Assembly,20,1,No,,Winter,,No
+2026-01-21,SPR001,Steel Spring,83,5,No,,Winter,,No
+2026-01-21,BOL001,Hex Bolt M8,204,6,No,,Winter,,No
+2026-01-21,ASM001,Spring Assembly,17,0,No,,Winter,,No
+2026-01-22,SPR001,Steel Spring,83,5,No,,Winter,,No
+2026-01-22,BOL001,Hex Bolt M8,260,7,No,,Winter,,No
+2026-01-22,ASM001,Spring Assembly,23,0,No,,Winter,,No
+2026-01-23,SPR001,Steel Spring,118,4,No,,Winter,,No
+2026-01-23,BOL001,Hex Bolt M8,182,5,No,,Winter,,No
+2026-01-23,ASM001,Spring Assembly,19,0,No,,Winter,,No
+2026-01-26,SPR001,Steel Spring,107,6,Yes,600.0,Winter,,No
+2026-01-26,BOL001,Hex Bolt M8,223,6,Yes,1200.0,Winter,,No
+2026-01-26,ASM001,Spring Assembly,24,0,Yes,120.0,Winter,,No
+2026-01-27,SPR001,Steel Spring,95,5,No,,Winter,,No
+2026-01-27,BOL001,Hex Bolt M8,238,7,No,,Winter,,No
+2026-01-27,ASM001,Spring Assembly,20,1,No,,Winter,,No
+2026-01-28,SPR001,Steel Spring,115,4,No,,Winter,,No
+2026-01-28,BOL001,Hex Bolt M8,241,8,No,,Winter,,No
+2026-01-28,ASM001,Spring Assembly,20,0,No,,Winter,,No
+2026-01-29,SPR001,Steel Spring,84,4,No,,Winter,,No
+2026-01-29,BOL001,Hex Bolt M8,197,7,No,,Winter,,No
+2026-01-29,ASM001,Spring Assembly,24,2,No,,Winter,,No
+2026-01-30,SPR001,Steel Spring,88,5,No,,Winter,,No
+2026-01-30,BOL001,Hex Bolt M8,223,7,No,,Winter,,No
+2026-01-30,ASM001,Spring Assembly,18,1,No,,Winter,,No
+2026-02-02,SPR001,Steel Spring,87,3,Yes,600.0,Winter,,No
+2026-02-02,BOL001,Hex Bolt M8,145,5,Yes,1200.0,Winter,,No
+2026-02-02,ASM001,Spring Assembly,19,2,Yes,120.0,Winter,,No
+2026-02-03,SPR001,Steel Spring,92,5,No,,Winter,,No
+2026-02-03,BOL001,Hex Bolt M8,216,7,No,,Winter,,No
+2026-02-03,ASM001,Spring Assembly,26,2,No,,Winter,,No
+2026-02-04,SPR001,Steel Spring,107,5,No,,Winter,,No
+2026-02-04,BOL001,Hex Bolt M8,210,6,No,,Winter,,No
+2026-02-04,ASM001,Spring Assembly,24,2,No,,Winter,,No
+2026-02-05,SPR001,Steel Spring,63,4,No,,Winter,,No
+2026-02-05,BOL001,Hex Bolt M8,222,8,No,,Winter,,No
+2026-02-05,ASM001,Spring Assembly,17,0,No,,Winter,,No
+2026-02-06,SPR001,Steel Spring,101,4,No,,Winter,,No
+2026-02-06,BOL001,Hex Bolt M8,213,8,No,,Winter,,No
+2026-02-06,ASM001,Spring Assembly,22,1,No,,Winter,,No
+2026-02-09,SPR001,Steel Spring,115,4,Yes,600.0,Winter,,No
+2026-02-09,BOL001,Hex Bolt M8,145,6,Yes,1200.0,Winter,,No
+2026-02-09,ASM001,Spring Assembly,17,1,Yes,120.0,Winter,,No
+2026-02-10,SPR001,Steel Spring,107,6,No,,Winter,,No
+2026-02-10,BOL001,Hex Bolt M8,187,5,No,,Winter,,No
+2026-02-10,ASM001,Spring Assembly,19,0,No,,Winter,,No
+2026-02-11,SPR001,Steel Spring,119,5,No,,Winter,,No
+2026-02-11,BOL001,Hex Bolt M8,209,8,No,,Winter,,No
+2026-02-11,ASM001,Spring Assembly,22,2,No,,Winter,,No
+2026-02-12,SPR001,Steel Spring,100,4,No,,Winter,,No
+2026-02-12,BOL001,Hex Bolt M8,193,6,No,,Winter,,No
+2026-02-12,ASM001,Spring Assembly,21,1,No,,Winter,,No
+2026-02-13,SPR001,Steel Spring,130,7,No,,Winter,,No
+2026-02-13,BOL001,Hex Bolt M8,210,6,No,,Winter,,No
+2026-02-13,ASM001,Spring Assembly,20,2,No,,Winter,,No
+2026-02-16,SPR001,Steel Spring,88,3,Yes,600.0,Winter,,No
+2026-02-16,BOL001,Hex Bolt M8,181,5,Yes,1200.0,Winter,,No
+2026-02-16,ASM001,Spring Assembly,23,0,Yes,120.0,Winter,,No
+2026-02-17,SPR001,Steel Spring,109,4,No,,Winter,,No
+2026-02-17,BOL001,Hex Bolt M8,163,4,No,,Winter,,No
+2026-02-17,ASM001,Spring Assembly,19,2,No,,Winter,,No
+2026-02-18,SPR001,Steel Spring,108,4,No,,Winter,,No
+2026-02-18,BOL001,Hex Bolt M8,180,6,No,,Winter,,No
+2026-02-18,ASM001,Spring Assembly,19,1,No,,Winter,,No
+2026-02-19,SPR001,Steel Spring,75,4,No,,Winter,,No
+2026-02-19,BOL001,Hex Bolt M8,157,5,No,,Winter,,No
+2026-02-19,ASM001,Spring Assembly,21,0,No,,Winter,,No
+2026-02-20,SPR001,Steel Spring,86,4,No,,Winter,,No
+2026-02-20,BOL001,Hex Bolt M8,138,5,No,,Winter,,No
+2026-02-20,ASM001,Spring Assembly,20,0,No,,Winter,,No
+2026-02-23,SPR001,Steel Spring,88,5,Yes,600.0,Winter,,No
+2026-02-23,BOL001,Hex Bolt M8,191,7,Yes,1200.0,Winter,,No
+2026-02-23,ASM001,Spring Assembly,20,1,Yes,120.0,Winter,,No
+2026-02-24,SPR001,Steel Spring,109,6,No,,Winter,,No
+2026-02-24,BOL001,Hex Bolt M8,210,7,No,,Winter,,No
+2026-02-24,ASM001,Spring Assembly,17,1,No,,Winter,,No
+2026-02-25,SPR001,Steel Spring,76,3,No,,Winter,,No
+2026-02-25,BOL001,Hex Bolt M8,175,6,No,,Winter,,No
+2026-02-25,ASM001,Spring Assembly,24,2,No,,Winter,,No
+2026-02-26,SPR001,Steel Spring,94,4,No,,Winter,,No
+2026-02-26,BOL001,Hex Bolt M8,223,7,No,,Winter,,No
+2026-02-26,ASM001,Spring Assembly,21,0,No,,Winter,,No
+2026-02-27,SPR001,Steel Spring,88,5,No,,Winter,,No
+2026-02-27,BOL001,Hex Bolt M8,217,6,No,,Winter,,No
+2026-02-27,ASM001,Spring Assembly,21,2,No,,Winter,,No
+2026-03-02,SPR001,Steel Spring,104,6,Yes,600.0,Spring,,No
+2026-03-02,BOL001,Hex Bolt M8,183,7,Yes,1200.0,Spring,,No
+2026-03-02,ASM001,Spring Assembly,21,2,Yes,120.0,Spring,,No
+2026-03-03,SPR001,Steel Spring,125,7,No,,Spring,,No
+2026-03-03,BOL001,Hex Bolt M8,185,7,No,,Spring,,No
+2026-03-03,ASM001,Spring Assembly,25,0,No,,Spring,,No
+2026-03-04,SPR001,Steel Spring,105,4,No,,Spring,,No
+2026-03-04,BOL001,Hex Bolt M8,163,4,No,,Spring,,No
+2026-03-04,ASM001,Spring Assembly,19,2,No,,Spring,,No
+2026-03-05,SPR001,Steel Spring,80,3,No,,Spring,,No
+2026-03-05,BOL001,Hex Bolt M8,161,4,No,,Spring,,No
+2026-03-05,ASM001,Spring Assembly,16,1,No,,Spring,,No
+2026-03-06,SPR001,Steel Spring,107,6,No,,Spring,,No
+2026-03-06,BOL001,Hex Bolt M8,214,7,No,,Spring,,No
+2026-03-06,ASM001,Spring Assembly,16,0,No,,Spring,,No
+2026-03-09,SPR001,Steel Spring,96,4,Yes,600.0,Spring,,No
+2026-03-09,BOL001,Hex Bolt M8,141,5,Yes,1200.0,Spring,,No
+2026-03-09,ASM001,Spring Assembly,15,1,Yes,120.0,Spring,,No
+2026-03-10,SPR001,Steel Spring,101,5,No,,Spring,,No
+2026-03-10,BOL001,Hex Bolt M8,172,5,No,,Spring,,No
+2026-03-10,ASM001,Spring Assembly,23,2,No,,Spring,,No
+2026-03-11,SPR001,Steel Spring,110,5,No,,Spring,,No
+2026-03-11,BOL001,Hex Bolt M8,190,7,No,,Spring,,No
+2026-03-11,ASM001,Spring Assembly,16,1,No,,Spring,,No
+2026-03-12,SPR001,Steel Spring,82,5,No,,Spring,,No
+2026-03-12,BOL001,Hex Bolt M8,204,8,No,,Spring,,No
+2026-03-12,ASM001,Spring Assembly,18,2,No,,Spring,,No
+2026-03-13,SPR001,Steel Spring,78,3,No,,Spring,,No
+2026-03-13,BOL001,Hex Bolt M8,207,7,No,,Spring,,No
+2026-03-13,ASM001,Spring Assembly,24,1,No,,Spring,,No
+2026-03-16,SPR001,Steel Spring,77,4,Yes,600.0,Spring,,No
+2026-03-16,BOL001,Hex Bolt M8,171,5,Yes,1200.0,Spring,,No
+2026-03-16,ASM001,Spring Assembly,18,0,Yes,120.0,Spring,,No
+2026-03-17,SPR001,Steel Spring,75,5,No,,Spring,,No
+2026-03-17,BOL001,Hex Bolt M8,205,8,No,,Spring,,No
+2026-03-17,ASM001,Spring Assembly,21,1,No,,Spring,,No
+2026-03-18,SPR001,Steel Spring,93,4,No,,Spring,,No
+2026-03-18,BOL001,Hex Bolt M8,227,6,No,,Spring,,No
+2026-03-18,ASM001,Spring Assembly,21,1,No,,Spring,,No
+2026-03-19,SPR001,Steel Spring,98,3,No,,Spring,,No
+2026-03-19,BOL001,Hex Bolt M8,176,7,No,,Spring,,No
+2026-03-19,ASM001,Spring Assembly,18,0,No,,Spring,,No
+2026-03-20,SPR001,Steel Spring,108,5,No,,Spring,,No
+2026-03-20,BOL001,Hex Bolt M8,175,7,No,,Spring,,No
+2026-03-20,ASM001,Spring Assembly,18,0,No,,Spring,,No
+2026-03-23,SPR001,Steel Spring,113,6,Yes,600.0,Spring,,No
+2026-03-23,BOL001,Hex Bolt M8,166,6,Yes,1200.0,Spring,,No
+2026-03-23,ASM001,Spring Assembly,20,0,Yes,120.0,Spring,,No
+2026-03-24,SPR001,Steel Spring,106,4,No,,Spring,,No
+2026-03-24,BOL001,Hex Bolt M8,213,6,No,,Spring,,No
+2026-03-24,ASM001,Spring Assembly,17,0,No,,Spring,,No
+2026-03-25,SPR001,Steel Spring,97,4,No,,Spring,,No
+2026-03-25,BOL001,Hex Bolt M8,206,6,No,,Spring,,No
+2026-03-25,ASM001,Spring Assembly,17,0,No,,Spring,,No
+2026-03-26,SPR001,Steel Spring,95,4,No,,Spring,,No
+2026-03-26,BOL001,Hex Bolt M8,228,6,No,,Spring,,No
+2026-03-26,ASM001,Spring Assembly,18,1,No,,Spring,,No
+2026-03-27,SPR001,Steel Spring,97,5,No,,Spring,,No
+2026-03-27,BOL001,Hex Bolt M8,168,6,No,,Spring,,No
+2026-03-27,ASM001,Spring Assembly,23,1,No,,Spring,,No
+2026-03-30,SPR001,Steel Spring,121,6,Yes,600.0,Spring,,No
+2026-03-30,BOL001,Hex Bolt M8,191,6,Yes,1200.0,Spring,,No
+2026-03-30,ASM001,Spring Assembly,23,0,Yes,120.0,Spring,,No
+2026-03-31,SPR001,Steel Spring,106,4,No,,Spring,,No
+2026-03-31,BOL001,Hex Bolt M8,208,8,No,,Spring,,No
+2026-03-31,ASM001,Spring Assembly,17,2,No,,Spring,,No
+2026-04-01,SPR001,Steel Spring,98,5,No,,Spring,,No
+2026-04-01,BOL001,Hex Bolt M8,136,4,No,,Spring,,No
+2026-04-01,ASM001,Spring Assembly,19,1,No,,Spring,,No
+2026-04-02,SPR001,Steel Spring,100,5,No,,Spring,,No
+2026-04-02,BOL001,Hex Bolt M8,228,6,No,,Spring,,No
+2026-04-02,ASM001,Spring Assembly,18,1,No,,Spring,,No
+2026-04-03,SPR001,Steel Spring,94,4,No,,Spring,,No
+2026-04-03,BOL001,Hex Bolt M8,194,7,No,,Spring,,No
+2026-04-03,ASM001,Spring Assembly,18,2,No,,Spring,,No
+2026-04-06,SPR001,Steel Spring,85,4,Yes,600.0,Spring,,No
+2026-04-06,BOL001,Hex Bolt M8,162,4,Yes,1200.0,Spring,,No
+2026-04-06,ASM001,Spring Assembly,21,0,Yes,120.0,Spring,,No
+2026-04-07,SPR001,Steel Spring,82,5,No,,Spring,,No
+2026-04-07,BOL001,Hex Bolt M8,194,7,No,,Spring,,No
+2026-04-07,ASM001,Spring Assembly,16,0,No,,Spring,,No
+2026-04-08,SPR001,Steel Spring,107,4,No,,Spring,,No
+2026-04-08,BOL001,Hex Bolt M8,228,8,No,,Spring,,No
+2026-04-08,ASM001,Spring Assembly,17,0,No,,Spring,,No
+2026-04-09,SPR001,Steel Spring,108,6,No,,Spring,,No
+2026-04-09,BOL001,Hex Bolt M8,200,7,No,,Spring,,No
+2026-04-09,ASM001,Spring Assembly,18,1,No,,Spring,,No
+2026-04-10,SPR001,Steel Spring,108,4,No,,Spring,,No
+2026-04-10,BOL001,Hex Bolt M8,179,5,No,,Spring,,No
+2026-04-10,ASM001,Spring Assembly,13,2,No,,Spring,,No
+2026-04-13,SPR001,Steel Spring,93,5,Yes,600.0,Spring,,No
+2026-04-13,BOL001,Hex Bolt M8,237,9,Yes,1200.0,Spring,,No
+2026-04-13,ASM001,Spring Assembly,19,2,Yes,120.0,Spring,,No
+2026-04-14,SPR001,Steel Spring,100,6,No,,Spring,,No
+2026-04-14,BOL001,Hex Bolt M8,179,5,No,,Spring,,No
+2026-04-14,ASM001,Spring Assembly,20,2,No,,Spring,,No
+2026-04-15,SPR001,Steel Spring,118,5,No,,Spring,,No
+2026-04-15,BOL001,Hex Bolt M8,221,6,No,,Spring,,No
+2026-04-15,ASM001,Spring Assembly,23,0,No,,Spring,,No
+2026-04-16,SPR001,Steel Spring,102,4,No,,Spring,,No
+2026-04-16,BOL001,Hex Bolt M8,177,5,No,,Spring,,No
+2026-04-16,ASM001,Spring Assembly,16,1,No,,Spring,,No
+2026-04-17,SPR001,Steel Spring,84,5,No,,Spring,,No
+2026-04-17,BOL001,Hex Bolt M8,203,6,No,,Spring,,No
+2026-04-17,ASM001,Spring Assembly,17,2,No,,Spring,,No
+2026-04-20,SPR001,Steel Spring,130,6,Yes,600.0,Spring,,No
+2026-04-20,BOL001,Hex Bolt M8,171,7,Yes,1200.0,Spring,,No
+2026-04-20,ASM001,Spring Assembly,22,2,Yes,120.0,Spring,,No
+2026-04-21,SPR001,Steel Spring,82,5,No,,Spring,,No
+2026-04-21,BOL001,Hex Bolt M8,157,6,No,,Spring,,No
+2026-04-21,ASM001,Spring Assembly,22,2,No,,Spring,,No
+2026-04-22,SPR001,Steel Spring,80,4,No,,Spring,,No
+2026-04-22,BOL001,Hex Bolt M8,252,7,No,,Spring,,No
+2026-04-22,ASM001,Spring Assembly,18,1,No,,Spring,,No
+2026-04-23,SPR001,Steel Spring,124,6,No,,Spring,,No
+2026-04-23,BOL001,Hex Bolt M8,174,7,No,,Spring,,No
+2026-04-23,ASM001,Spring Assembly,23,2,No,,Spring,,No
+2026-04-24,SPR001,Steel Spring,105,5,No,,Spring,,No
+2026-04-24,BOL001,Hex Bolt M8,185,5,No,,Spring,,No
+2026-04-24,ASM001,Spring Assembly,20,0,No,,Spring,,No
+2026-04-27,SPR001,Steel Spring,111,5,Yes,600.0,Spring,,No
+2026-04-27,BOL001,Hex Bolt M8,182,7,Yes,1200.0,Spring,,No
+2026-04-27,ASM001,Spring Assembly,19,1,Yes,120.0,Spring,,No
+2026-04-28,SPR001,Steel Spring,105,4,No,,Spring,,No
+2026-04-28,BOL001,Hex Bolt M8,175,5,No,,Spring,,No
+2026-04-28,ASM001,Spring Assembly,18,2,No,,Spring,,No
+2026-04-29,SPR001,Steel Spring,99,4,No,,Spring,,No
+2026-04-29,BOL001,Hex Bolt M8,167,5,No,,Spring,,No
+2026-04-29,ASM001,Spring Assembly,16,2,No,,Spring,,No
+2026-04-30,SPR001,Steel Spring,101,4,No,,Spring,,No
+2026-04-30,BOL001,Hex Bolt M8,180,5,No,,Spring,,No
+2026-04-30,ASM001,Spring Assembly,21,0,No,,Spring,,No
+2026-05-01,SPR001,Steel Spring,101,6,No,,Spring,,No
+2026-05-01,BOL001,Hex Bolt M8,199,7,No,,Spring,,No
+2026-05-01,ASM001,Spring Assembly,21,2,No,,Spring,,No
+2026-05-04,SPR001,Steel Spring,105,5,Yes,600.0,Spring,,No
+2026-05-04,BOL001,Hex Bolt M8,177,5,Yes,1200.0,Spring,,No
+2026-05-04,ASM001,Spring Assembly,17,2,Yes,120.0,Spring,,No
+2026-05-05,SPR001,Steel Spring,95,5,No,,Spring,,No
+2026-05-05,BOL001,Hex Bolt M8,221,7,No,,Spring,,No
+2026-05-05,ASM001,Spring Assembly,23,1,No,,Spring,,No
+2026-05-06,SPR001,Steel Spring,111,6,No,,Spring,,No
+2026-05-06,BOL001,Hex Bolt M8,196,6,No,,Spring,,No
+2026-05-06,ASM001,Spring Assembly,24,1,No,,Spring,,No
+2026-05-07,SPR001,Steel Spring,86,3,No,,Spring,,No
+2026-05-07,BOL001,Hex Bolt M8,204,8,No,,Spring,,No
+2026-05-07,ASM001,Spring Assembly,20,1,No,,Spring,,No
+2026-05-08,SPR001,Steel Spring,99,3,No,,Spring,,No
+2026-05-08,BOL001,Hex Bolt M8,179,5,No,,Spring,,No
+2026-05-08,ASM001,Spring Assembly,21,2,No,,Spring,,No
+2026-05-11,SPR001,Steel Spring,86,4,Yes,600.0,Spring,,No
+2026-05-11,BOL001,Hex Bolt M8,211,8,Yes,1200.0,Spring,,No
+2026-05-11,ASM001,Spring Assembly,22,2,Yes,120.0,Spring,,No
+2026-05-12,SPR001,Steel Spring,110,6,No,,Spring,,No
+2026-05-12,BOL001,Hex Bolt M8,200,8,No,,Spring,,No
+2026-05-12,ASM001,Spring Assembly,21,1,No,,Spring,,No
+2026-05-13,SPR001,Steel Spring,95,4,No,,Spring,,No
+2026-05-13,BOL001,Hex Bolt M8,204,7,No,,Spring,,No
+2026-05-13,ASM001,Spring Assembly,25,2,No,,Spring,,No
+2026-05-14,SPR001,Steel Spring,97,5,No,,Spring,,No
+2026-05-14,BOL001,Hex Bolt M8,240,7,No,,Spring,,No
+2026-05-14,ASM001,Spring Assembly,20,0,No,,Spring,,No
+2026-05-15,SPR001,Steel Spring,114,6,No,,Spring,,No
+2026-05-15,BOL001,Hex Bolt M8,217,7,No,,Spring,,No
+2026-05-15,ASM001,Spring Assembly,16,0,No,,Spring,,No
+2026-05-18,SPR001,Steel Spring,105,4,Yes,600.0,Spring,,No
+2026-05-18,BOL001,Hex Bolt M8,196,5,Yes,1200.0,Spring,,No
+2026-05-18,ASM001,Spring Assembly,24,2,Yes,120.0,Spring,,No
+2026-05-19,SPR001,Steel Spring,116,6,No,,Spring,,No
+2026-05-19,BOL001,Hex Bolt M8,196,5,No,,Spring,,No
+2026-05-19,ASM001,Spring Assembly,20,0,No,,Spring,,No
+2026-05-20,SPR001,Steel Spring,106,5,No,,Spring,,No
+2026-05-20,BOL001,Hex Bolt M8,214,8,No,,Spring,,No
+2026-05-20,ASM001,Spring Assembly,20,0,No,,Spring,,No
+2026-05-21,SPR001,Steel Spring,87,5,No,,Spring,,No
+2026-05-21,BOL001,Hex Bolt M8,214,8,No,,Spring,,No
+2026-05-21,ASM001,Spring Assembly,18,0,No,,Spring,,No
+2026-05-22,SPR001,Steel Spring,78,4,No,,Spring,,No
+2026-05-22,BOL001,Hex Bolt M8,203,7,No,,Spring,,No
+2026-05-22,ASM001,Spring Assembly,20,0,No,,Spring,,No
+2026-05-25,SPR001,Steel Spring,71,3,Yes,600.0,Spring,,No
+2026-05-25,BOL001,Hex Bolt M8,213,6,Yes,1200.0,Spring,,No
+2026-05-25,ASM001,Spring Assembly,18,2,Yes,120.0,Spring,,No
+2026-05-26,SPR001,Steel Spring,135,5,No,,Spring,,No
+2026-05-26,BOL001,Hex Bolt M8,163,4,No,,Spring,,No
+2026-05-26,ASM001,Spring Assembly,16,2,No,,Spring,,No
+2026-05-27,SPR001,Steel Spring,113,4,No,,Spring,,No
+2026-05-27,BOL001,Hex Bolt M8,171,5,No,,Spring,,No
+2026-05-27,ASM001,Spring Assembly,17,1,No,,Spring,,No
+2026-05-28,SPR001,Steel Spring,79,5,No,,Spring,,No
+2026-05-28,BOL001,Hex Bolt M8,204,8,No,,Spring,,No
+2026-05-28,ASM001,Spring Assembly,18,1,No,,Spring,,No
+2026-05-29,SPR001,Steel Spring,86,4,No,,Spring,,No
+2026-05-29,BOL001,Hex Bolt M8,185,6,No,,Spring,,No
+2026-05-29,ASM001,Spring Assembly,17,0,No,,Spring,,No
